@@ -1,0 +1,45 @@
+{
+    "dryness": {
+        "precision": 0.71,
+        "recall": 0.94,
+        "f1-score": 0.81,
+        "support": 32.0
+    },
+    "hyperpigmentation": {
+        "precision": 0.65,
+        "recall": 0.8,
+        "f1-score": 0.72,
+        "support": 66.0
+    },
+    "oily_skin": {
+        "precision": 0.9,
+        "recall": 0.88,
+        "f1-score": 0.89,
+        "support": 41.0
+    },
+    "wrinkles": {
+        "precision": 0.84,
+        "recall": 0.65,
+        "f1-score": 0.73,
+        "support": 100.0
+    },
+    "acne": {
+        "precision": 0.94,
+        "recall": 0.92,
+        "f1-score": 0.93,
+        "support": 52.0
+    },
+    "accuracy": 0.8,
+    "macro avg": {
+        "precision": 0.81,
+        "recall": 0.84,
+        "f1-score": 0.82,
+        "support": 291.0
+    },
+    "weighted avg": {
+        "precision": 0.81,
+        "recall": 0.8,
+        "f1-score": 0.8,
+        "support": 291.0
+    }
+}
