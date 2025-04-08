@@ -15,3 +15,9 @@ chmod +x start.sh
 ```bash
 fastapi dev main.py
 ```
+
+### Reload .bashrc
+
+```bash
+source ~/.bashrc
+```
