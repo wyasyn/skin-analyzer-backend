@@ -1,10 +1,26 @@
-from pydantic import BaseModel, field_validator
-from typing import Literal
+from pydantic import BaseModel, HttpUrl
+from typing import List, Optional
+
+
+class ImageRequest(BaseModel):
+    image: str  # base64 image string
+
+class Product(BaseModel):
+    title: str
+    price: str
+    description: str
+    ingredients: List[str]
+    image_url: HttpUrl
+    link: HttpUrl
+
+
+class ConditionInfo(BaseModel):
+    condition: str
+    description: str
+    recommended_products: List[Product]
+
 
 class PredictionResponse(BaseModel):
-    condition: Literal['acne', 'dryness', 'hyperpigmentation', 'oily_skin', 'wrinkles']
+    predicted_condition: str
     confidence: float
-
-    @field_validator('confidence')
-    def round_confidence(cls, value):
-        return round(value, 2)
+    info: Optional[ConditionInfo]  # This will be populated only if confidence > 0.8
