@@ -39,3 +39,9 @@ docker tag skin-analyzer yasyn/skin-analyzer:latest
 ```bash
 docker push yasyn/skin-analyzer:latest
 ```
+
+## 🚀 Run the container
+
+```bash
+docker run -d -p 8000:8000 yasyn/skin-analyzer:latest
+```
