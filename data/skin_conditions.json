@@ -165,7 +165,7 @@
   },
   {
     "condition": "Aging",
-    "description": "No description found",
+    "description": "Aging is the natural process where skin loses elasticity, thins, and may develop wrinkles or age spots over time.",
     "recommended_products": [
       {
         "title": "A.G.E. Advanced Eye",
@@ -511,7 +511,7 @@
   },
   {
     "condition": "Dryness",
-    "description": "No description found",
+    "description": "Dryness is when the skin lacks moisture, leading to rough, flaky, or tight-feeling skin.",
     "recommended_products": [
       {
         "title": "Antioxidant Lip Repair",
@@ -812,7 +812,7 @@
   },
   {
     "condition": "Pigmentation",
-    "description": "No description found",
+    "description": "Pigmentation is the darkening or lightening of the skin caused by excess melanin or uneven melanin distribution.",
     "recommended_products": [
       {
         "title": "AlphaRet Clearing Serum 30ml",
@@ -1109,7 +1109,7 @@
   },
   {
     "condition": "oily_skin",
-    "description": "No description found",
+    "description": "Oil control is managing excess oil production on the skin to prevent clogged pores and breakouts.",
     "recommended_products": [
       {
         "title": "Clarifying Clay Masque",
@@ -1214,7 +1214,7 @@
   },
   {
     "condition": "Post-Procedure",
-    "description": "No description found",
+    "description": "Post-procedure refers to the care and healing process that follows a skincare treatment or medical procedure.",
     "recommended_products": [
       {
         "title": "C E Ferulic",
@@ -1273,7 +1273,7 @@
   },
   {
     "condition": "Suncare",
-    "description": "No description found",
+    "description": "Suncare involves protecting the skin from harmful UV rays to prevent sunburn, aging, and skin damage.",
     "recommended_products": [
       {
         "title": "Physical Fusion UV Defense SPF 50",

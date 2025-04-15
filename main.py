@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from api.v1 import router as v1_router
-from api.v2 import router as v2_router
 
 app = FastAPI(
     title="Skin Condition Classifier API",
@@ -17,4 +16,4 @@ app.add_middleware(
 
 # Include versioned API
 app.include_router(v1_router)
-app.include_router(v2_router)
+
