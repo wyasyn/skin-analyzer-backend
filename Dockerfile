@@ -6,7 +6,8 @@ WORKDIR /app
 
 # Copy and install dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip \
+ && pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple --default-timeout=300 -r requirements.txt
 
 # Copy the rest of the app
 COPY . .
