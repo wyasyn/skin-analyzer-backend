@@ -12,8 +12,6 @@ RUN pip install --upgrade pip \
 # Copy the rest of the app
 COPY . .
 
-# Expose port
-EXPOSE 8000
 
 # Run the FastAPI app using fastapi-cli
-CMD ["fastapi", "run", "main.py", "--port", "8000"]
+CMD ["fastapi", "run", "main.py", "--port", "80"]

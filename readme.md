@@ -43,5 +43,24 @@ docker push yasyn/skin-analyzer:latest
 ## 🚀 Run the container
 
 ```bash
-docker run -d -p 8000:8000 yasyn/skin-analyzer:latest
+docker run -d -p 80:80 yasyn/skin-analyzer:latest
+```
+
+## Running with compose
+
+```bash
+docker-compose up --build
+```
+
+## From Image on hub
+
+```yaml
+services:
+  fastapi:
+    image: your_dockerhub_username/fastapi-app:latest
+    container_name: fastapi_app
+    expose:
+      - "8000"
+
+  nginx: ...
 ```
