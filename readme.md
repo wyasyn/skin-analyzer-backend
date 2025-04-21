@@ -54,13 +54,14 @@ docker-compose up --build
 
 ## From Image on hub
 
-```yaml
-services:
-  fastapi:
-    image: your_dockerhub_username/fastapi-app:latest
-    container_name: fastapi_app
-    expose:
-      - "8000"
+## Star containers
 
-  nginx: ...
+```bash
+docker-compose up --build
+```
+
+## Stop containers
+
+```bash
+docker-compose down
 ```

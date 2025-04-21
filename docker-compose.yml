@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  # FastAPI Backend Service
+  backend:
+    image: yasyn/skin-analyzer
+    container_name: fastapi-backend
+    ports:
+      - "8000:8000"
+    networks:
+      - skin-analyzer-net
+
+  # Frontend Service (Next.js)
+  frontend:
+    image: yasyn/web-skin-analyzer
+    container_name: nextjs-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000/api/v1
+    depends_on:
+      - backend
+    networks:
+      - skin-analyzer-net
+
+networks:
+  skin-analyzer-net:
+    driver: bridge
