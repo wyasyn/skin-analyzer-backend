@@ -9,8 +9,7 @@ class Product(BaseModel):
     title: str
     price: str
     description: str
-    ingredients: List[str]
-    image_url: HttpUrl
+    image: HttpUrl
     link: HttpUrl
 
 

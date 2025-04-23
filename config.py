@@ -1,3 +1,3 @@
-CLASS_NAMES = ['acne', 'dryness', 'pigmentation', 'oily_skin', 'aging']
+CLASS_NAMES = ['acne', 'dryness', 'pigmentation', 'Oiliness', 'Wrinkles']
 MODEL_PATH = "models/model-v1.keras"
 

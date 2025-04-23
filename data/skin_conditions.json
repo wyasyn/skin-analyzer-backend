@@ -4,508 +4,49 @@
     "description": "Acne is a skin condition where pimples, blackheads, or whiteheads form when hair follicles get clogged with oil and dead skin cells.",
     "recommended_products": [
       {
-        "title": "AlphaRet Clearing Serum 30ml",
-        "price": "$190.00",
-        "description": "Not suitable for pregnancy or breastfeeding",
-        "ingredients": [
-          "Salicylic Acid",
-          "Lactic Acid",
-          "Niacinamide and Sodium Hyaluronate",
-          "Zinc PCA",
-          "Botanical Complex",
-          "Bisabolol, Ginger Root Extract, Algae/Botanical Blend",
-          "Camellia Sinensis Leaf Extract",
-          "Decylene Glycol"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850004061862_SBSCAM003_AlphaRetClearingSerum30ML.webp",
-        "link": "https://getskinbeauty.com/product/alpharet-clearing-serum-30ml/"
+        "title": "Botanical Repair Mist",
+        "link": "https://www.auroraorganics.co/product/botanical-repair-mist/",
+        "price": "$35",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/08/Botanical-Repair-serum-300x300.jpg",
+        "description": "100% plant-based formulation composed entirely of botanical extracts, containing no added water. A sacred healing beauty ritual to restore calm and radiance, this skin-renewing hydra-tonic is infused with naturopathic botanical essences selected especially for  youth-affirming, brightening, congestion-clearing, and redness-eliminating properties. Mist lavishly throughout the day – after cleansing, under or over makeup, to dissolve fatigue or stress from travel or as a mid-day pick me up. Application: Apply to face, and neck after cleansing. Continue to mist on effected area throughout the day to protect against dehydration, inflammation, and free radical damage.Use after Hyderafacial, Laser Skin Peeling. Sooth & Repair Skin Suitable for Dry & cracked skin Sensitive Skin Acne-prone Skin Oily Skin Dull skin Rough skin Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands"],
+        "tags": []
       },
       {
-        "title": "Clarifying Clay Masque",
-        "price": "$79.00",
-        "description": "The Clarifying Clay Masque is a comprehensive skincare treatment designed to deeply cleanse and refine the skin for those struggling with excess oil and congested pores. Formulated with premium kaolin and bentonite clays, this advanced mask offers a multi-action approach to skin purification.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "2% Mixed Fruit Extracts (Rich in Hydroxy Acids)",
-          "Kaolin and Bentonite Clays",
-          "Aloe and Chamomile AQUA / WATER / EAU, KAOLIN, BENTONITE, ALOE BARBADENSIS / ALOE BARBADENSIS LEAF JUICE,PROPYLENE GLYCOL, GLYCERIN, CI 77891 / TITANIUM DIOXIDE, ARGILLA / MAGNESIUM ALUMINUM SILICATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, DIMETHICONE, PHENOXYETHANOL, CETEARETH-20, VACCINIUM MYRTILLUS FRUIT EXTRACT, CAPRYLYL GLYCOL, XANTHAN GUM, HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL, SACCHARUM OFFICINARUM EXTRACT / SUGAR CANE EXTRACT / EXTRAIT DE CANNE A SUCRE, SODIUM HYDROXIDE, CITRUS AURANTIUM DULCIS FRUIT WATER / ORANGE FRUIT WATER, CITRUS LIMON FRUIT EXTRACT / LEMON FRUIT EXTRACT, ACER SACCHARINUM EXTRACT / SUGAR MAPLE EXTRACT, CHAMOMILLA RECUTITA EXTRACT / MATRICARIA FLOWER EXTRACT, ROSMARINUS OFFICINALIS LEAF OIL / ROSEMARY LEAF OIL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/635494330700_CLARIFYING-CLAY-MASQUE_BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/clarifying-clay-masque/"
+        "title": "Charcoal Detox Soap",
+        "link": "https://www.auroraorganics.co/product/charcoal-detox-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/charcaol-soap-1-300x300.jpg",
+        "description": "Benefits Exfoliates, deep cleanses and removes impurities from the skin Makes skin brighter and clearer through skin-brightening properties Anti-inflammatory, anti-bacterial and anti-aging How to Use Wash and cleanse your face with a Charcoal soap thrice a day. Rinse with water. Follow with a natural moisturizer. Use daily For a bearded face, work the product down to the skin and wash properly Key Ingredients 100% chemical-free, formulated with natural ingredients mainly Charcoal, Coconut Oil, Almond Extracts, Vitamin C and Vitamin E among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Normal skin Combination skin Oily skin Targets Uneven skin tone Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply AM PM",
+        "categories": ["For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "LHA Cleansing Gel",
-        "price": "$62.00",
-        "description": "LHA Cleansing Gel is a targeted exfoliating LHA/AHA/BHA cleanser featuring a conditioning surfactant and a 12% concentration of key ingredients combining lipo-hydroxy acid, glycolic acid, salicylic acid, glycerin, and sorbitol to remove excess oils and makeup, while decongesting pores and brightening skin. Formulated for aging skin prone to breakouts, this deep cleansing gel gently refines the appearance of congested pores and helps minimize blemishes without drying the skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Soap-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-Cleanser-Gel_540x540_BIL.webp",
-        "link": "https://getskinbeauty.com/product/lha-cleansing-gel/"
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
       },
       {
-        "title": "LHA Serum",
-        "price": "$132.00",
-        "description": "LHA Serum is an innovative, oil-free face serum designed to address both aging concerns and acne-prone skin. This multi-functional product offers a unique combination of acids to target multiple skin issues simultaneously.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-SERUM-BIL-576x576px.webp",
-        "link": "https://getskinbeauty.com/product/lha-serum/"
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "LHA Toner",
-        "price": "$60.00",
-        "description": "Glycolic acid toner to help unclog pores and remove surface dead skin cells with lipo-hydroxy acid.",
-        "ingredients": [
-          "Fragrance-Free",
-          "LHA (Capryloyl Salicylic Acid)",
-          "Glycolic Acid",
-          "Salicylic Acid AQUA / WATER / EAU, ALCOHOL DENAT., GLYCOLIC ACID, SODIUM HYDROXIDE, CAPRYLOYL SALICYLIC ACID, SALICYLIC ACID"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000471429_LHA_TONER_BIL_new.webp",
-        "link": "https://getskinbeauty.com/product/lha-toner/"
-      },
-      {
-        "title": "Phyto A+ Brightening Treatment",
-        "price": "$142.00",
-        "description": "Phyto A+ Brightening Treatment is an innovative lightweight moisturizer designed to address multiple skin concerns, particularly for those with blemish-prone or oily skin. This versatile product combines powerful active ingredients to deliver comprehensive skincare benefits.",
-        "ingredients": [
-          "Oil-Free",
-          "Silicone-Free",
-          "2% Alpha Arbutin",
-          "3% Azelaic Acid",
-          "5.75% Phyto Botanical Blend AQUA / WATER / EAU",
-          "GLYCERIN",
-          "ISONONYL ISONONANOATE",
-          "PROPYLENE GLYCOL",
-          "AZELAIC ACID",
-          "NIACINAMIDE",
-          "SQUALANE",
-          "ALPHA-ARBUTIN",
-          "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
-          "HYDROGENATED POLYISOBUTENE",
-          "SILICA SILYLATE",
-          "HYDROXYACETOPHENONE",
-          "SODIUM HYALURONATE",
-          "CAPRYLYL GLYCOL",
-          "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
-          "SODIUM HYDROXIDE",
-          "OLEA EUROPAEA LEAF EXTRACT / OLIVE LEAF EXTRACT",
-          "PARFUM / FRAGRANCE",
-          "BUTYLENE GLYCOL",
-          "ROSMARINUS OFFICINALIS LEAF EXTRACT / ROSEMARY LEAF EXTRACT",
-          "CITRUS GRANDIS FRUIT EXTRACT / GRAPEFRUIT FRUIT EXTRACT",
-          "SODIUM BENZOATE",
-          "CUCUMIS SATIVUS FRUIT EXTRACT / CUCUMBER FRUIT EXTRACT",
-          "SORBITAN ISOSTEARATE",
-          "POLYSORBATE 60",
-          "BENZYL BENZOATE",
-          "THYMUS VULGARIS FLOWER/LEAF EXTRACT – THYME FLOWER/LEAF EXTRACT",
-          "LACTIC ACID",
-          "BENZYL ALCOHOL",
-          "ALPHA-ISOMETHYL IONONE",
-          "LINALOOL",
-          "POTASSIUM SORBATE",
-          "CITRONELLOL",
-          "MORUS ALBA ROOT EXTRACT",
-          "CI 19140 / YELLOW 5",
-          "CI 42090 / BLUE 1",
-          "TOCOPHEROL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/PHYTO-A_BIGHTENING_TREATMENT.webp",
-        "link": "https://getskinbeauty.com/product/phyto-a-brightening-treatment/"
-      },
-      {
-        "title": "Retinol 0.3",
-        "price": "$99.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "0.3% Retinol",
-          "Soothing Complex AQUA / WATER / EAU PROPANEDIOL DIMETHICONE CETEARYL ETHYLHEXANOATE ALCOHOL DENAT. DIPROPYLENE GLYCOL AMMONIUM POLYACRYLOYLDIMETHYL TAURATE HYDROGENATED LECITHIN ALLYL METHACRYLATES CROSSPOLYMER PHENOXYETHANOL CAPRYLYL GLYCOL ISOPROPYL MYRISTATE RETINOL POLYSORBATE 20 SODIUM CITRATE BOSWELLIA SERRATA RESIN EXTRACT DIMETHICONOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE BISABOLOL CITRIC ACID BHT PROPYL GALLATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000509641_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-3/"
-      },
-      {
-        "title": "Retinol 0.5",
-        "price": "$108.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/883140025276_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-5/"
-      },
-      {
-        "title": "Silymarin CF",
-        "price": "$208.00",
-        "description": "Key benefits:",
-        "ingredients": ["Oil-Free", "Dye-Free", "Silicone-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/WFP-758100_SKC-Silymarin-EN-575x575px.webp",
-        "link": "https://getskinbeauty.com/product/silymarin-cf/"
-      }
-    ]
-  },
-  {
-    "condition": "Aging",
-    "description": "Aging is the natural process where skin loses elasticity, thins, and may develop wrinkles or age spots over time.",
-    "recommended_products": [
-      {
-        "title": "A.G.E. Advanced Eye",
-        "price": "$140.00",
-        "description": "A.G.E. Advanced Eye is an Anti-Aging Eye Cream For Wrinkles & Dark Circles is an advanced skincare solution designed to combat multiple signs of aging around the delicate eye area. This silky-textured cream targets crow’s feet, puffiness, and dark circles using a potent blend of ingredients including ProxylaneTM, Matrixyl 3000, and optical diffusers.",
-        "ingredients": ["Paraben-Free", "Dye-Free", "Fragrance-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/A.webp",
-        "link": "https://getskinbeauty.com/product/a-g-e-advanced-eye/"
-      },
-      {
-        "title": "A.G.E. Interrupter Advanced",
-        "price": "$225.00",
-        "description": "A.G.E. Interrupter Advanced is a cutting-edge anti-aging cream designed to combat visible signs of aging caused by collagen decline and glycation. This potent formulation contains higher concentrations of key ingredients compared to its predecessor, including 18% Proxylane and a 4.25% Wild Fruit Flavonoid blend, along with the addition of 0.1% Glycyrrhetinic Acid.",
-        "ingredients": [
-          "Paraben-Free",
-          "Drying Alcohol-Free",
-          "Dye-Free",
-          "18% Concentrated Proxylane",
-          "4.25% Wild Fruit Flavonoids",
-          "1% Glycyrrhetinic Acid",
-          "3% Hepes",
-          "1% Niacinamide AQUA / WATER ● HYDROXYPROPYL TETRAHYDROPYRANTRIOL ● GLYCERIN ● PROPYLENE GLYCOL ● STEARIC ACID ● BUTYROSPERMUM PARKII BUTTER / SHEA BUTTER ● HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID ● PALMITIC ACID ● PENTYLENE GLYCOL ● OLEYL ALCOHOL ● ARACHIDYL ALCOHOL ● MYRISTYL MYRISTATE ● PANTHENOL ● NIACINAMIDE ● DIMETHICONE ● ISONONYL ISONONANOATE ● BIS-PEG/PPG-16/16 PEG/PPG-16/16 DIMETHICONE ● GLYCERYL STEARATE ● CANDELILLA CERA / CANDELILLA WAX ● BEHENYL ALCOHOL ● PEG-100 STEARATE ● SODIUM POLYACRYLATE ● PENTAERYTHRITYL TETRAISOSTEARATE ● 4-T-BUTYLCYCLOHEXANOL ● ARACHIDYL GLUCOSIDE ● CAPRYLYL GLYCOL ● XANTHAN GUM ● CHLORPHENESIN ● MYRISTIC ACID ● CAPRYLIC/CAPRIC TRIGLYCERIDE ● GLYCYRRHETINIC ACID ● PARFUM / FRAGRANCE ● SORBITOL ● VACCINIUM MYRTILLUS FRUIT EXTRACT ● POTASSIUM HYDROXIDE ● ADENOSINE ● CITRIC ACID ● PUNICA GRANATUM FRUIT EXTRACT ● LIMONENE ● COUMARIN ● LINALOOL ● PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/AIA_BeautyAward24.webp",
-        "link": "https://getskinbeauty.com/product/a-g-e-interrupter-advanced/"
-      },
-      {
-        "title": "AlphaRet Clearing Serum 30ml",
-        "price": "$190.00",
-        "description": "Not suitable for pregnancy or breastfeeding",
-        "ingredients": [
-          "Salicylic Acid",
-          "Lactic Acid",
-          "Niacinamide and Sodium Hyaluronate",
-          "Zinc PCA",
-          "Botanical Complex",
-          "Bisabolol, Ginger Root Extract, Algae/Botanical Blend",
-          "Camellia Sinensis Leaf Extract",
-          "Decylene Glycol"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850004061862_SBSCAM003_AlphaRetClearingSerum30ML.webp",
-        "link": "https://getskinbeauty.com/product/alpharet-clearing-serum-30ml/"
-      },
-      {
-        "title": "AlphaRet Overnight Cream 30ml",
-        "price": "$190.00",
-        "description": "Key benefits include:",
-        "ingredients": ["KEY INGREDIENTS"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/865800000250_SBSCAM001_AlphaRetOvernightCream30ML.webp",
-        "link": "https://getskinbeauty.com/product/alpharet-overnight-cream-30ml/"
-      },
-      {
-        "title": "Antioxidant Lip Repair",
-        "price": "$58.00",
-        "description": "Antioxidant Lip Repair is a specialized emollient product designed to address environmental damage and lip care challenges. This potent lip treatment focuses on restoring and protecting the delicate lip area through targeted hydration and repair.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "Silymarin",
-          "Vitamin E (Alpha Tocopherol)",
-          "Hydroxyethyl Urea",
-          "Allantoin",
-          "Hyaluronic Acid AQUA / WATER / EAU HYDROGENATED POLYISOBUTENE GLYCERIN CERA MICROCRISTALLINA / MICROCRYSTALLINE WAX / CIRE MICROCRISTALLINE DIMETHICONE UNDECANE TRIDECANE PEG/PPG-18/18 DIMETHICONE SILICA ALCOHOL DENAT. TOCOPHERYL ACETATE POLYMETHYLSILSESQUIOXANE ETHYLHEXYL PALMITATE PHENOXYETHANOL LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE TOCOPHEROL MAGNESIUM SULFATE DISTEARDIMONIUM HECTORITE TRIBEHENIN CAPRYLYL GLYCOL ALLANTOIN DISODIUM EDTA HYDROXYETHYL UREA SORBITAN ISOSTEARATE SODIUM HYALURONATE PENTYLENE GLYCOL FAEX EXTRACT / YEAST EXTRACT / EXTRAIT DE LEVURE LACTIC ACID BIOSACCHARIDE GUM-1 PALMITOYL TRIPEPTIDE-1 SILYBUM MARIANUM EXTRACT HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/883140034285_ANTIOXIDANT-LIP-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/antioxidant-lip-repair/"
-      },
-      {
-        "title": "C E Ferulic",
-        "price": "$208.00",
-        "description": "Key benefits include:1) Environmental Protection: Shields skin from free radical damage caused by UV rays, pollution, and other environmental aggressors2) Anti-Aging Effects: Improves the appearance of fine lines, wrinkles, and loss of firmness3) Skin Brightening: Enhances skin’s complexion, promoting a more radiant appearance4) Long-Lasting Efficacy: Once absorbed, the serum remains effective for a minimum of 72 hours5) Clinically Proven Results: Demonstrated to reduce combined oxidative damage from UVA/UVB rays, ozone pollution, and diesel exhaust by up to 41%",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/PS41406-SKC-P23-CE-Ferulic-Website-PACKSHOT-RGB-560x560px-BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/c-e-ferulic/"
-      },
-      {
-        "title": "Cell Cycle Catalyst",
-        "price": "$135.00",
-        "description": "Cell Cycle Catalyst is an advanced anti-aging serum designed to accelerate skin renewal and enhance overall skincare results. This potent formulation combines a 7.7% multi-acid complex (alpha and beta hydroxy acids) with 1% Taurine to deliver comprehensive skin benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "7.7% Multi-Acid",
-          "1% Taurine AQUA / WATER, GLYCERIN, GLYCOLIC ACID, ETHOXYDIGLYCOL, SODIUM HYDROXIDE, PHYTIC ACID, LACTIC ACID, MANDELIC ACID, TAURINE, SALICYLIC ACID, CHLORPHENESIN, CAPRYLYL GLYCOL, TETRASODIUM GLUTAMATE DIACETATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/SKC-CellCycleCatalyst-BIL-578x578px-1.webp",
-        "link": "https://getskinbeauty.com/product/cell-cycle-catalyst/"
-      },
-      {
-        "title": "Duo Kit 30ml",
-        "price": "$230.00",
-        "description": "No description",
-        "ingredients": [
-          "Pyrroloquinoline Quinone Allyl Ester (Allyl PQQ)",
-          "Extrait de plancton",
-          "Micrococcus Lysate",
-          "Mélange antioxydant botanique breveté",
-          "Vitamine C (Tétrahexylodécyl ascorbate) & vitamine E (Acétate de tocophéryle)",
-          "Mélange de Café, Safran, Superoxyde Dismutase et Ergothionéine",
-          "Complexe Anti-Pollution",
-          "Bisabolol (et) Extrait de Racine de Gingembre (Zingiber Officinale)",
-          "Niacinamide",
-          "Extrait de Réglisse",
-          "Trifluoroacetyl Tripeptide-2",
-          "AlphaRet : Une combinaison unique d’un rétinoïde et d’un AHA (acide lactique).",
-          "Acide Glycolique",
-          "Mélange de Peptides Ciblés",
-          "Mélange Ultra Hydratant de Céramides, de Squalane, de Niacinamide et d’Acide Hyaluronique",
-          "Allantoïne, Acide Glycyrrhétinique, Bisabolol et Extrait de Thé Vert",
-          "Vitamines C & E et Coenzyme Q10"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809537_SBSCAM010_NewATeamDuoKit.jpg",
-        "link": "https://getskinbeauty.com/product/duo-kit-30ml/"
-      },
-      {
-        "title": "EyeMax AlphaRet Overnight Cream 15ml",
-        "price": "$170.00",
-        "description": "Key benefits include:1) Advanced Anti-Aging Action: Utilizes patented AlphaRet technology, a unique combination of retinoid and alpha hydroxy acid, to effectively reduce fine lines, wrinkles, and signs of aging around the eyes2) Comprehensive Skin Improvement: Clinically proven to improve skin texture, darkness, and puffiness in as little as 4 weeks of nightly use3) Intense Hydration: Provides a rich, luxurious moisture complex that supports the skin barrier, leaving the eye area feeling softer, smoother, and firmer4) Environmental Protection: Incorporates antioxidants to defend against environmental stressors and prevent further skin damage5) Gentle Formulation: Specifically designed for the sensitive eye area, the cream is non-comedogenic and formulated without parabens, fragrances, and dyes",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809162_SBSCAM009_EyeMaxAlphaRetOvernightCream15ML.webp",
-        "link": "https://getskinbeauty.com/product/eyemax-alpharet-overnight-cream-15ml/"
-      },
-      {
-        "title": "Face Cream",
-        "price": "$170.00",
-        "description": "SkinCeuticals Face Cream is a specialized lightweight moisturizer designed to address aging and dryness in mature skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Soy Isoflavones",
-          "Vitamin E (Alpha Tocopherol)",
-          "Silymarin AQUA / WATER / EAU, DIMETHICONE, GLYCERIN, NYLON-12, STEARETH-21, DIPROPYLENE GLYCOL, ALCOHOL DENAT., BORON NITRIDE, AMMONIUM ACRYLOYL, DIMETHYLTAURATE/VP COPOLYMER, HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL, PHENOXYETHANOLVITIS VINIFERA SEED OIL / GRAPE SEED OIL, TOCOPHEROLBIS-PEG/PPG-20/20 DIMETHICONE, SESAMUM INDICUM OIL / SESAME SEED OIL, GLYCINE SOJA OIL / SOYBEAN OIL, CAPRYLYL GLYCOLPROPYLENE GLYCOLPOLYACRYLAMIDEDIMETHICONOLSODIUM BENZOATEC13-14 ISOPARAFFINDIMETHICONE/VINYL DIMETHICONE CROSSPOLYMERPENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATESILYBUM MARIANUM EXTRACT"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/635494368703_FACE-CREAM_BIL.webp",
-        "link": "https://getskinbeauty.com/product/face-cream/"
-      },
-      {
-        "title": "HA Intensifier",
-        "price": "$150.00",
-        "description": "Key benefits include:1) Hyaluronic Acid Amplification: Clinically proven to increase skin’s hyaluronic acid levels by 30%, enhancing overall hydration and plumpness2) Visible Anti-Aging Effects: Reduces the appearance of crow’s feet, nasolabial folds, and marionette lines, improving skin firmness and smoothness3) Multi-Dimensional Hydration: Utilizes a unique combination of pure hyaluronic acid, Proxylane, and botanical extracts to provide long-lasting hydration and improve skin texture4) Versatile Application: Suitable for all skin types and can be used as part of a post-dermal filler skincare regimen (with physician approval)5) Comprehensive Skin Improvement: In clinical studies, demonstrated significant improvements in skin plumpness, firmness, elasticity, and overall texture within 12 weeks of use",
-        "ingredients": ["Paraben-Free", "Dye-Free", "Fragrance-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/WFP-980559-SKC-W24-HA-INTENSIFIER_BIL-576x576px_BIL.webp",
-        "link": "https://getskinbeauty.com/product/ha-intensifier/"
-      },
-      {
-        "title": "InterFuse Intensive Treatment LINES 15ml",
-        "price": "$200.00",
-        "description": "No description",
-        "ingredients": [
-          "Injectable-Grade Hyaluronic Acid (HA)",
-          "4 Additional Varying Sizes of HA",
-          "2 Neuro-Calming Peptides",
-          "Collagen Nourishing Complex of Amino Acids, Messenger Peptides and Vitamin C"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006030_InterFuseIntensiveTreatmentLINES15ML.webp",
-        "link": "https://getskinbeauty.com/product/interfuse-intensive-treatment-lines-15ml/"
-      },
-      {
-        "title": "InterFuse Treatment Cream Face & Neck 30ml",
-        "price": "$190.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Blend of Messenger Peptides",
-          "neuro-calming Peptides",
-          "Mediterranean Olive Extract"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/865800000205_SBSCAM004_InterFuseTreatmentCreamFACENECK30ML.webp",
-        "link": "https://getskinbeauty.com/product/interfuse-treatment-cream-face-neck-30ml/"
-      },
-      {
-        "title": "LHA Cleansing Gel",
-        "price": "$62.00",
-        "description": "LHA Cleansing Gel is a targeted exfoliating LHA/AHA/BHA cleanser featuring a conditioning surfactant and a 12% concentration of key ingredients combining lipo-hydroxy acid, glycolic acid, salicylic acid, glycerin, and sorbitol to remove excess oils and makeup, while decongesting pores and brightening skin. Formulated for aging skin prone to breakouts, this deep cleansing gel gently refines the appearance of congested pores and helps minimize blemishes without drying the skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Soap-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-Cleanser-Gel_540x540_BIL.webp",
-        "link": "https://getskinbeauty.com/product/lha-cleansing-gel/"
-      },
-      {
-        "title": "LHA Serum",
-        "price": "$132.00",
-        "description": "LHA Serum is an innovative, oil-free face serum designed to address both aging concerns and acne-prone skin. This multi-functional product offers a unique combination of acids to target multiple skin issues simultaneously.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-SERUM-BIL-576x576px.webp",
-        "link": "https://getskinbeauty.com/product/lha-serum/"
-      },
-      {
-        "title": "P-TIOX",
-        "price": "$180.00",
-        "description": "Key benefits:",
-        "ingredients": ["Paraben-Free", "Dye-Free", "Fragrance-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/Product_Slide_01_Packshot.webp",
-        "link": "https://getskinbeauty.com/product/p-tiox/"
-      },
-      {
-        "title": "Physical Fusion UV Defense SPF 50",
-        "price": "$59.00",
-        "description": "Key benefits:",
-        "ingredients": ["Paraben-Free", "Fragrance-Free", "Non-Comedogenic"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/PFUD50_BeautyAward24.webp",
-        "link": "https://getskinbeauty.com/product/physical-fusion-uv-defense-spf-50/"
-      },
-      {
-        "title": "Resveratrol BE",
-        "price": "$208.00",
-        "description": "Resveratrol BE is an innovative nighttime facial serum that harnesses the power of antioxidants to combat signs of aging and enhance skin health. This unique formula combines a potent blend of resveratrol, baicalin, and vitamin E to deliver comprehensive anti-aging benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Dye-Free",
-          "Fragrance-Free KEY INGREDIENTS",
-          "1% Resveratrol",
-          "0.5% Baicalin",
-          "1% Alpha Tocopherol",
-          "0.2% Glycyrrhetinic Acid FULL INGREDIENT LIST AQUA / WATER / EAU, DIMETHICONE, PROPYLENE GLYCOL, DIPROPYLENE GLYCOL, NIACINAMIDE, ALCOHOL DENAT., GLYCERIN, CAFFEINE, SODIUM CHLORIDE, PEG/PPG-18/18 DIMETHICONE, TOCOPHEROL, RESVERATROL, SCUTELLARIA BAICALENSIS EXTRACT / SCUTELLARIA BAICALENSIS ROOT, EXTRACT, DISODIUM EDTA"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/3606000499805_RESVERATROL_B_E_BIL.webp",
-        "link": "https://getskinbeauty.com/product/resveratrol-be/"
-      },
-      {
-        "title": "Retexturing Activator",
-        "price": "$112.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Oil-Free",
-          "Silicone-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/635494327700_RETEXTURING-ACTIVATOR_BIL.jpg",
-        "link": "https://getskinbeauty.com/product/retexturing-activator/"
-      },
-      {
-        "title": "Retinol 0.3",
-        "price": "$99.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "0.3% Retinol",
-          "Soothing Complex AQUA / WATER / EAU PROPANEDIOL DIMETHICONE CETEARYL ETHYLHEXANOATE ALCOHOL DENAT. DIPROPYLENE GLYCOL AMMONIUM POLYACRYLOYLDIMETHYL TAURATE HYDROGENATED LECITHIN ALLYL METHACRYLATES CROSSPOLYMER PHENOXYETHANOL CAPRYLYL GLYCOL ISOPROPYL MYRISTATE RETINOL POLYSORBATE 20 SODIUM CITRATE BOSWELLIA SERRATA RESIN EXTRACT DIMETHICONOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE BISABOLOL CITRIC ACID BHT PROPYL GALLATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000509641_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-3/"
-      },
-      {
-        "title": "Retinol 0.5",
-        "price": "$108.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/883140025276_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-5/"
-      },
-      {
-        "title": "Simply Clean",
-        "price": "$56.00",
-        "description": "Simply Clean is an advanced gel cleanser designed to effectively remove makeup and purify the skin. This powerful face wash combines an amino acid surfactant system with a 6% concentration of key ingredients to provide a thorough yet gentle cleansing experience.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Sulfate-Free",
-          "Soap-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/3606000470781_SIMPLY-CLEAN-BIL.webp",
-        "link": "https://getskinbeauty.com/product/simply-clean/"
-      },
-      {
-        "title": "Techno Neck Perfecting Cream 50ml",
-        "price": "$230.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Arginine, Adenosine, Carnosine and Proprietary Complex Stabilizer",
-          "Heptapeptide-7",
-          "Nicotiana Benthamiana Hexapeptide-40sh-Polypeptide-76",
-          "Fruit Extract Complex (Watermelon, Apple, Lentil)",
-          "Hydrolyzed Sodium Hyaluronate",
-          "Niacinamide",
-          "Linoleic and Linolenic Acid",
-          "Squalane",
-          "Aminopropyl Ascorbyl Phosphate",
-          "Epigallocatechin Gallate (EGCG)"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809247_SBSCAM013_TechnoNeckPerfectingCream50ML.jpg",
-        "link": "https://getskinbeauty.com/product/techno-neck-perfecting-cream-50ml/"
-      },
-      {
-        "title": "Tripeptide-R Neck Repair",
-        "price": "$170.00",
-        "description": "Tripeptide-R Neck Repair is an advanced retinol-based neck firming treatment designed to address early to advanced signs of neck aging. This daily cream targets visible aging concerns, including lines and wrinkles caused by repetitive neck movements, such as looking down at mobile devices.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "0.2% Pure Retinol",
-          "5.0% Glaucine Complex",
-          "2.5% Tripeptide Concentrate AQUA/WATER/EAU, GLYCERIN, DIMETHICONE, HYDROGENATED POLYISOBUTENE, VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER, METHYL METHACRYLATE CROSSPOLYMER, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, HELIANTHUS ANNUUS SEED OIL UNSAPONIFIABLES/SUNFLOWER SEED OIL UNSAPONIFIABLES, MYRISTYL MYRISTATE, ALLYL METHACRYLATES CROSSPOLYMER, SODIUM HYDROXIDE, POTASSIUM CETYL PHOSPHATE, GLYCERYL STEARATE SE, CAPRYLOYL GLYCINE, CAPRYLYL GLYCOL, SILICA SILYLATE, PENTYLENE GLYCOL, STEARIC ACID, HYDROLYZED RICE PROTEIN, PALMITIC ACID, RETINOL, POLYSORBATE 20, COCO-GLUCOSIDE, ARGILLA/MAGNESIUM ALUMINUM SILICATE, XANTHAN GUM, ALCOHOL, BHT, SODIUM CITRATE, MYRISTIC ACID, LAVANDULA ANGUSTIFOLIA OIL/LAVENDER OIL, ROSMARINUS OFFICINALIS LEAF OIL/ROSEMARY LEAF OIL, MENTHA PIPERITA OIL/PEPPERMINT OIL, GLAUCINE, CITRIC ACID, LINALOOL, TETRADECYL AMINOBUTYROYLVALYLAMINOBUTYRIC UREA TRIFLUOROACETATE, MAGNESIUM CHLORIDE, TOCOPHEROL, PROPYL GALLATE, BIOTIN, D247390/1"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000556034_TRIPEPTIDE-R-NECK-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/tripeptide-r-neck-repair/"
-      },
-      {
-        "title": "Triple Lipid Restore 2:4:2",
-        "price": "$179.00",
-        "description": "Triple Lipid Restore 2:4:2 is an innovative ceramide cream designed to replenish cellular lipids and restore the skin’s moisture barrier. Its patented formula features a precise 2:4:2 ratio of pure ceramides, natural cholesterol, and fatty acids, scientifically proven to address dry skin and signs of aging.",
-        "ingredients": ["Paraben-Free", "Dye-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/triple-lipid-restore-3606000434967-skinceuticals-ElleQuebec-main.webp",
-        "link": "https://getskinbeauty.com/product/triple-lipid-restore-242/"
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
       }
     ]
   },
@@ -514,299 +55,67 @@
     "description": "Dryness is when the skin lacks moisture, leading to rough, flaky, or tight-feeling skin.",
     "recommended_products": [
       {
-        "title": "Antioxidant Lip Repair",
-        "price": "$58.00",
-        "description": "Antioxidant Lip Repair is a specialized emollient product designed to address environmental damage and lip care challenges. This potent lip treatment focuses on restoring and protecting the delicate lip area through targeted hydration and repair.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "Silymarin",
-          "Vitamin E (Alpha Tocopherol)",
-          "Hydroxyethyl Urea",
-          "Allantoin",
-          "Hyaluronic Acid AQUA / WATER / EAU HYDROGENATED POLYISOBUTENE GLYCERIN CERA MICROCRISTALLINA / MICROCRYSTALLINE WAX / CIRE MICROCRISTALLINE DIMETHICONE UNDECANE TRIDECANE PEG/PPG-18/18 DIMETHICONE SILICA ALCOHOL DENAT. TOCOPHERYL ACETATE POLYMETHYLSILSESQUIOXANE ETHYLHEXYL PALMITATE PHENOXYETHANOL LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE TOCOPHEROL MAGNESIUM SULFATE DISTEARDIMONIUM HECTORITE TRIBEHENIN CAPRYLYL GLYCOL ALLANTOIN DISODIUM EDTA HYDROXYETHYL UREA SORBITAN ISOSTEARATE SODIUM HYALURONATE PENTYLENE GLYCOL FAEX EXTRACT / YEAST EXTRACT / EXTRAIT DE LEVURE LACTIC ACID BIOSACCHARIDE GUM-1 PALMITOYL TRIPEPTIDE-1 SILYBUM MARIANUM EXTRACT HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/883140034285_ANTIOXIDANT-LIP-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/antioxidant-lip-repair/"
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
       },
       {
-        "title": "C E Ferulic",
-        "price": "$208.00",
-        "description": "Key benefits include:1) Environmental Protection: Shields skin from free radical damage caused by UV rays, pollution, and other environmental aggressors2) Anti-Aging Effects: Improves the appearance of fine lines, wrinkles, and loss of firmness3) Skin Brightening: Enhances skin’s complexion, promoting a more radiant appearance4) Long-Lasting Efficacy: Once absorbed, the serum remains effective for a minimum of 72 hours5) Clinically Proven Results: Demonstrated to reduce combined oxidative damage from UVA/UVB rays, ozone pollution, and diesel exhaust by up to 41%",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/PS41406-SKC-P23-CE-Ferulic-Website-PACKSHOT-RGB-560x560px-BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/c-e-ferulic/"
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Emollience",
-        "price": "$99.00",
-        "description": "Key benefits include:1) Deep Hydration: Restores and maintains daily moisture, ensuring skin stays hydrated throughout the day2) Gentle Formula: Crafted with soothing ingredients, making it suitable for sensitive skin and post-procedure care3) Skin Barrier Support: Strengthens the skin’s natural moisture barrier, protecting against environmental stressors4) Lightweight Texture: Absorbs quickly and evenly without leaving a greasy residue, providing a comfortable feel on the skin5) Versatile Use: Ideal for daily application in various climates, especially beneficial in dry or cold conditions",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/635494333701_EMOLLIENCE_BIL.jpg",
-        "link": "https://getskinbeauty.com/product/emollience/"
+        "title": "Lavender Soothing Lotion",
+        "link": "https://www.auroraorganics.co/product/lavender-soothing-lotion/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Soothing-Lavender-Lotion-1-300x300.jpg",
+        "description": "Soothing Lavender Lotion, specially formulated with 100% Pure Lavender extract and extra goodness of shea butter. Its rich, smooth texture melts into the skin, leaving it soft, and supple. This lotion calms dry irritated skin for naturally glowing, naturally healthy skin. Its non-greasy formula conditions your skin while soothing your senses with a non-greasy feel. Also, its clinically proven formula keeps skin moisturized. Lavender oil is known to help soothe and calm the mind by reducing anxiety. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation How to use: Apply Soothing Lavender Lotion to your skin daily to help heal dry skin. Massage across your face & body until fully absorbed, and reapply in the morning, at night, or as needed throughout the day. Enjoy naturally calm and healthy glowing skin. When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Epidermal Repair",
-        "price": "$94.00",
-        "description": "Key benefits include:1) Skin Barrier Restoration: Facilitates rapid repair of the skin’s natural protective barrier, helping to accelerate healing and reduce vulnerability2) Redness Reduction: Effectively diminishes the appearance of skin redness and inflammation, providing a calming effect on sensitive skin3) Post-Procedure Support: Ideal for use after dermatological treatments like chemical peels, laser resurfacing, and IPL, helping to soothe and rehabilitate skin4) Moisture Retention: Acts as a protective veil to retain moisture and support skin’s natural healing processes5) Gentle Formulation: Suitable for normal to dry skin types, with key ingredients like beta glucan, centella asiatica extract, and nymphea alba flower extract that work together to soothe and protect the skin",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Non-Comedogenic",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/883140028048_EPIDERMAL-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/epidermal-repair/"
+        "title": "Plump Lip Balm",
+        "link": "https://www.auroraorganics.co/product/light-lip-balm/",
+        "price": "$6",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/lipbalm-300x300.jpg",
+        "description": "The ultra-hydrating, moisturizing and healing lip balm restores your confidence and boosts your aura by strengthening the natural firmness of your skin. Whether men or women, lips are blessed with the most delicate layers of skin that need loving care to keep them smooth, moisturized, bright and plump. Our softening lip balm prevents lips from darkening and makes them look unbelievably fresh, plump and attractive. Benefits Protects lips from UV rays and dryness Moisturizes lips and make them look plump Heals dry lips and restores their firmness How to Use Wash your face and gently cleanse your lips Take a little amount of lip balm and rub over your lips gently Absorb it in the skin by rubbing it a few times. Avoid licking or eating it Key Ingredients 100% chemical-free, formulated with natural ingredients mainly shea butter, cocoa butter and hydrating castor oil among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Dry & cracked Lips Targets Hydrating Moisturising",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Eye Balm",
-        "price": "$108.00",
-        "description": "Key benefits include:1) Comprehensive Aging Defense: Targets three prime signs of aging – moisture loss, collagen breakdown, and free radical damage – with a synergistic blend of gentle, powerful plant-based ingredients2) Moisture Restoration: Replenishes lost moisture in the delicate eye area, helping to improve skin’s hydration and overall appearance3) Visible Aging Reduction: Minimizes the appearance of under-eye puffiness, crow’s feet, and fine lines while supporting skin firmness4) Skin Barrier Support: Helps replace lipids in dry skin, improving the appearance and resilience of the delicate eye area5) Gentle Formulation: Provides rich, corrective treatment with a soft, matte finish, suitable for dry and mature skin types",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/EyeBalm.jpg",
-        "link": "https://getskinbeauty.com/product/eye-balm/"
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "EyeMax AlphaRet Overnight Cream 15ml",
-        "price": "$170.00",
-        "description": "Key benefits include:1) Advanced Anti-Aging Action: Utilizes patented AlphaRet technology, a unique combination of retinoid and alpha hydroxy acid, to effectively reduce fine lines, wrinkles, and signs of aging around the eyes2) Comprehensive Skin Improvement: Clinically proven to improve skin texture, darkness, and puffiness in as little as 4 weeks of nightly use3) Intense Hydration: Provides a rich, luxurious moisture complex that supports the skin barrier, leaving the eye area feeling softer, smoother, and firmer4) Environmental Protection: Incorporates antioxidants to defend against environmental stressors and prevent further skin damage5) Gentle Formulation: Specifically designed for the sensitive eye area, the cream is non-comedogenic and formulated without parabens, fragrances, and dyes",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809162_SBSCAM009_EyeMaxAlphaRetOvernightCream15ML.webp",
-        "link": "https://getskinbeauty.com/product/eyemax-alpharet-overnight-cream-15ml/"
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Face Cream",
-        "price": "$170.00",
-        "description": "SkinCeuticals Face Cream is a specialized lightweight moisturizer designed to address aging and dryness in mature skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Soy Isoflavones",
-          "Vitamin E (Alpha Tocopherol)",
-          "Silymarin AQUA / WATER / EAU, DIMETHICONE, GLYCERIN, NYLON-12, STEARETH-21, DIPROPYLENE GLYCOL, ALCOHOL DENAT., BORON NITRIDE, AMMONIUM ACRYLOYL, DIMETHYLTAURATE/VP COPOLYMER, HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL, PHENOXYETHANOLVITIS VINIFERA SEED OIL / GRAPE SEED OIL, TOCOPHEROLBIS-PEG/PPG-20/20 DIMETHICONE, SESAMUM INDICUM OIL / SESAME SEED OIL, GLYCINE SOJA OIL / SOYBEAN OIL, CAPRYLYL GLYCOLPROPYLENE GLYCOLPOLYACRYLAMIDEDIMETHICONOLSODIUM BENZOATEC13-14 ISOPARAFFINDIMETHICONE/VINYL DIMETHICONE CROSSPOLYMERPENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATESILYBUM MARIANUM EXTRACT"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/635494368703_FACE-CREAM_BIL.webp",
-        "link": "https://getskinbeauty.com/product/face-cream/"
-      },
-      {
-        "title": "Gentle Cleanser",
-        "price": "$56.00",
-        "description": "Key benefits include:1) Advanced Makeup Removal: Efficiently removes long-wear face and eye makeup without leaving residue, ensuring thorough cleansing2) Intense Hydration: Formulated with emollient-rich surfactants, allantoin, and glycerin to hydrate, soften, and condition the skin, preventing dryness and tightness3) Pre-Treatment Preparation: Ideal for use before professional skincare treatments, leaving skin soft, moisturized, and primed for cosmeceutical applications4) Gentle Skin Support: Non-foaming formula that cleanses without stripping natural oils, making it suitable for dry and sensitive skin types5) Skin Barrier Protection: Helps maintain the skin’s natural moisture barrier while effectively removing impurities and makeup",
-        "ingredients": [
-          "Paraben-Free",
-          "Sulfate-Free",
-          "Soap-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Alcohol-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/GentleCleanserCream_BIL_578x578px.webp",
-        "link": "https://getskinbeauty.com/product/gentle-cleanser/"
-      },
-      {
-        "title": "Hydrating B5 Gel",
-        "price": "$112.00",
-        "description": "Key benefits include:1) Intense Hydration: Utilizes hyaluronic acid to attract and retain moisture, providing deep hydration without clogging pores, leaving skin supple and smooth2) Skin Barrier Support: Combines vitamin B5 to strengthen the skin’s natural barrier, protecting against environmental stressors and reducing moisture loss3) Versatile Skin Treatment: Suitable for all skin types, including sensitive, dehydrated, and acne-prone skin, enhancing the effectiveness of daily moisturizers4) Anti-Aging Properties: Helps reduce the appearance of fine lines and wrinkles by improving skin hydration and elasticity5) Lightweight Restoration: Replenishes essential nutrients, restoring skin’s radiance and promoting a smoother, more youthful complexion",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/635494317701_HYDRATING-B5-GEL_BIL.jpg",
-        "link": "https://getskinbeauty.com/product/hydrating-b5-gel/"
-      },
-      {
-        "title": "Hydrating B5 Masque",
-        "price": "$84.00",
-        "description": "SkinCeuticals Hydrating B5 Masque is an intensely hydrating gel mask designed to replenish moisture levels and restore skin balance.",
-        "ingredients": [
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "Hyaluronic Acid",
-          "Vitamin B5",
-          "Advanced Moisture Complex AQUA / WATER / EAU GLYCERIN TRIETHANOLAMINE CARBOMER SODIUM HYALURONATE PHENOXYETHANOL CALCIUM PANTOTHENATE SODIUM BENZOATE PANTHENOL SODIUM PCA UREA DISODIUM EDTA TREHALOSE POLYQUATERNIUM-51"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/635494316001_HYDRATING-B5-MASQUE-BIL.webp",
-        "link": "https://getskinbeauty.com/product/hydrating-b5-masque/"
-      },
-      {
-        "title": "Hydration Boosting Cream 50ml",
-        "price": "$135.00",
-        "description": "No description",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006139_SBSCAM020_HydrationBoostingCream50ML.jpg",
-        "link": "https://getskinbeauty.com/product/hydration-boosting-cream-50ml/"
-      },
-      {
-        "title": "Instant Effect Gel EYE 15ml",
-        "price": "$150.00",
-        "description": "No description",
-        "ingredients": [
-          "Green Coffee",
-          "Algae Blend and Botanical Extracts",
-          "Sodium Hyaluronate"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006245_SBSCAM019_InstantEffectGelEYE15ML.webp",
-        "link": "https://getskinbeauty.com/product/instant-effect-gel-eye-15ml/"
-      },
-      {
-        "title": "Phyto Corrective Essence Mist",
-        "price": "$90.00",
-        "description": "Phyto Corrective Essence Mist is an innovative hydrating facial mist that combines botanical extracts and powerful humectants to provide comprehensive skincare benefits. The product offers a unique blend of ingredients designed to soothe, hydrate, and strengthen the skin barrier.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Silicone-Free",
-          "6.2% Blend of Hyaluronic Acid +",
-          "5.75% Phyto Botanical Blend AQUA / WATER",
-          "GLYCERIN",
-          "PROPYLENE GLYCOL",
-          "BUTYLENE GLYCOL",
-          "POTASSIUM PHOSPHATE",
-          "POLYSORBATE 80",
-          "PHENOXYETHANOL",
-          "SODIUM CHLORIDE",
-          "HEXYLENE GLYCOL",
-          "DIPOTASSIUM PHOSPHATE",
-          "POLYGLYCERYL-4 CAPRATE",
-          "SODIUM HYALURONATE",
-          "PEUMUS BOLDUS LEAF EXTRACT",
-          "DISODIUM EDTA",
-          "OLEA EUROPAEA LEAF EXTRACT / OLIVE LEAF EXTRACT",
-          "MYRTRIMONIUM BROMIDE",
-          "BENZOPHENONE-4",
-          "ROSMARINUS OFFICINALIS LEAF EXTRACT / ROSEMARY LEAF EXTRACT",
-          "PARFUM / FRAGRANCE",
-          "XANTHAN GUM",
-          "CITRUS GRANDIS FRUIT EXTRACT / GRAPEFRUIT FRUIT EXTRACT",
-          "SODIUM BENZOATE",
-          "CUCUMIS SATIVUS FRUIT EXTRACT / CUCUMBER FRUIT EXTRACT",
-          "THYMUS VULGARIS FLOWER/LEAF EXTRACT – THYME FLOWER/LEAF EXTRACT",
-          "LACTIC ACID",
-          "BENZYL BENZOATE",
-          "POTASSIUM SORBATE",
-          "BENZYL ALCOHOL",
-          "ALPHA-ISOMETHYL IONONE",
-          "MORUS ALBA ROOT EXTRACT",
-          "LINALOOL",
-          "CI 42090 / BLUE 1",
-          "CI 19140 / YELLOW 5"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/PCEM_BeautyAward24.webp",
-        "link": "https://getskinbeauty.com/product/phyto-corrective-essence-mist/"
-      },
-      {
-        "title": "Phyto Corrective Gel",
-        "price": "$102.00",
-        "description": "Phyto Corrective Gel is a versatile skincare solution designed to address multiple skin concerns with its soothing and hydrating botanical formula. This gel serum offers comprehensive skin support for various skin types and conditions.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Silicone-Free",
-          "Non-Comedogenic"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/635494314700_PHYTO-CORRECTIVE-GEL_BIL.jpg",
-        "link": "https://getskinbeauty.com/product/phyto-corrective-gel/"
-      },
-      {
-        "title": "Phyto Corrective Mask",
-        "price": "$90.00",
-        "description": "Phyto Corrective Mask is an intensive botanical face mask designed to calm and rehydrate temporarily reactive skin. This versatile treatment combines highly-concentrated botanical extracts, a calming dipeptide, and hyaluronic acid to provide immediate relief and lasting benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "9% Soothing Botanicals",
-          "Calming Dipeptide",
-          "Hyaluronic Acid AQUA / WATER / EAU GLYCERIN ALCOHOL DENAT. DIPROPYLENE GLYCOL DIMETHICONE BUTYLENE GLYCOL PROPYLENE GLYCOL PEG-8 PEG/PPG/POLYBUTYLENE GLYCOL-8/5/3 GLYCERIN AMMONIUM POLYACRYLOYLDIMETHYL TAURATE PHENOXYETHANOL CARBOMER DIMETHICONOL CAPRYLYL GLYCOL SODIUM HYALURONATE CHLORPHENESIN OLEA EUROPAEA LEAF EXTRACT / OLIVE LEAF EXTRACT SODIUM HYDROXIDE TETRASODIUM EDTA SODIUM CITRATE PARFUM / FRAGRANCE ACETYL DIPEPTIDE-1 CETYL ESTER CUCUMIS SATIVUS FRUIT EXTRACT / CUCUMBER FRUIT EXTRACT SODIUM BENZOATE THYMUS VULGARIS FLOWER/LEAF EXTRACT – THYME FLOWER/LEAF EXTRACT CITRUS GRANDIS EXTRACT / GRAPEFRUIT FRUIT EXTRACT TOLUENE SULFONIC ACID BENZYL BENZOATE CELLULOSE ACETATE BUTYRATE BENZYL ALCOHOL ALPHA-ISOMETHYL IONONE POLYPHOSPHORYLCHOLINE GLYCOL ACRYLATE LINALOOL MORUS ALBA ROOT EXTRACT POLYVINYL ALCOHOL CITRONELLOL CI 19140 / YELLOW 5 CI 42090 / BLUE 1 SODIUM CHLORIDE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000436640_PHYTO-CORRECTOR-MASQUE_BIL.webp",
-        "link": "https://getskinbeauty.com/product/phyto-corrective-mask/"
-      },
-      {
-        "title": "Resveratrol BE",
-        "price": "$208.00",
-        "description": "Resveratrol BE is an innovative nighttime facial serum that harnesses the power of antioxidants to combat signs of aging and enhance skin health. This unique formula combines a potent blend of resveratrol, baicalin, and vitamin E to deliver comprehensive anti-aging benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Dye-Free",
-          "Fragrance-Free KEY INGREDIENTS",
-          "1% Resveratrol",
-          "0.5% Baicalin",
-          "1% Alpha Tocopherol",
-          "0.2% Glycyrrhetinic Acid FULL INGREDIENT LIST AQUA / WATER / EAU, DIMETHICONE, PROPYLENE GLYCOL, DIPROPYLENE GLYCOL, NIACINAMIDE, ALCOHOL DENAT., GLYCERIN, CAFFEINE, SODIUM CHLORIDE, PEG/PPG-18/18 DIMETHICONE, TOCOPHEROL, RESVERATROL, SCUTELLARIA BAICALENSIS EXTRACT / SCUTELLARIA BAICALENSIS ROOT, EXTRACT, DISODIUM EDTA"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/3606000499805_RESVERATROL_B_E_BIL.webp",
-        "link": "https://getskinbeauty.com/product/resveratrol-be/"
-      },
-      {
-        "title": "Soothing Cleanser",
-        "price": "$55.00",
-        "description": "Soothing Cleanser is an advanced foaming facial cleanser designed for sensitive, compromised, or post-procedure skin. This gentle yet effective formula combines a rich amilite surfactant with a potent 22% concentration of botanical extracts and hydrating ingredients to cleanse and comfort delicate skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Sulfate-Free",
-          "Soap-Free",
-          "Synthetic-Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/Soothing-Cleanser-Cleansing-Foam-SkinCeuticals.webp",
-        "link": "https://getskinbeauty.com/product/soothing-cleanser/"
-      },
-      {
-        "title": "Techno Neck Perfecting Cream 50ml",
-        "price": "$230.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Arginine, Adenosine, Carnosine and Proprietary Complex Stabilizer",
-          "Heptapeptide-7",
-          "Nicotiana Benthamiana Hexapeptide-40sh-Polypeptide-76",
-          "Fruit Extract Complex (Watermelon, Apple, Lentil)",
-          "Hydrolyzed Sodium Hyaluronate",
-          "Niacinamide",
-          "Linoleic and Linolenic Acid",
-          "Squalane",
-          "Aminopropyl Ascorbyl Phosphate",
-          "Epigallocatechin Gallate (EGCG)"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809247_SBSCAM013_TechnoNeckPerfectingCream50ML.jpg",
-        "link": "https://getskinbeauty.com/product/techno-neck-perfecting-cream-50ml/"
-      },
-      {
-        "title": "Triple Lipid Restore 2:4:2",
-        "price": "$179.00",
-        "description": "Triple Lipid Restore 2:4:2 is an innovative ceramide cream designed to replenish cellular lipids and restore the skin’s moisture barrier. Its patented formula features a precise 2:4:2 ratio of pure ceramides, natural cholesterol, and fatty acids, scientifically proven to address dry skin and signs of aging.",
-        "ingredients": ["Paraben-Free", "Dye-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/triple-lipid-restore-3606000434967-skinceuticals-ElleQuebec-main.webp",
-        "link": "https://getskinbeauty.com/product/triple-lipid-restore-242/"
+        "title": "Radiant Rose Face Mist",
+        "link": "https://www.auroraorganics.co/product/radiant-rose-face-mist/",
+        "price": "$13.95",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/rose-mist-1-300x300.jpg",
+        "description": "Hydrated Glow | Pollution Protection | Mood Boosting Give your skin an instant glow-up with our 100% Pure &  Natural Rose Mist , crafted to refresh, hydrate, and protect. This lightweight, hyaluronic-acid-infused face mist is powered by rose hydrosol and botanical actives that brighten dull skin , defend against environmental stressors, and provide an instant dewy glow —without any stickiness or residue. Benefits Rose Water and skincare-first ingredients contain natural healing and anti-inflammatory properties to balance, refresh and hydrate your skin. Helps protect from the damaging effects of pollution & blue light-overexposure linked to premature skin aging. Delivers the ultimate pearlescent glow and has a mood-boosting, refreshing scent. To soften, balance and regenerate your face, as well as tighten and minimize pores. Ideal for: Dry Skin – Delivers lasting hydration and comfort Oily Skin – Refreshes without adding shine or residue Combination Skin – Hydrates and balances dry and oily zones Sensitive Skin – Alcohol-free, gentle, and calming Mature Skin – Boosts radiance and protects from premature aging All Skin Types – Universally compatible and non-comedogenic Targets Dullness & dehydration Premature aging due to pollution or screen exposure Redness, irritation, and sensitivity Large or visible pores Uneven skin tone and lack of radiance How to Use Shake the bottle generously before spraying. Reapply throughout the day for an instant, refreshing glow. Wears well under or over makeup. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Rosa Extract, Actinidia Chinensis (Kiwi) Fruit Water, Beta Vulgaris (Beet) Root Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Lactic Acid, Citric Acid and among other ingredients. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands"],
+        "tags": []
       }
     ]
   },
@@ -815,502 +124,527 @@
     "description": "Pigmentation is the darkening or lightening of the skin caused by excess melanin or uneven melanin distribution.",
     "recommended_products": [
       {
-        "title": "AlphaRet Clearing Serum 30ml",
-        "price": "$190.00",
-        "description": "Not suitable for pregnancy or breastfeeding",
-        "ingredients": [
-          "Salicylic Acid",
-          "Lactic Acid",
-          "Niacinamide and Sodium Hyaluronate",
-          "Zinc PCA",
-          "Botanical Complex",
-          "Bisabolol, Ginger Root Extract, Algae/Botanical Blend",
-          "Camellia Sinensis Leaf Extract",
-          "Decylene Glycol"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850004061862_SBSCAM003_AlphaRetClearingSerum30ML.webp",
-        "link": "https://getskinbeauty.com/product/alpharet-clearing-serum-30ml/"
+        "title": "Botanical Repair Mist",
+        "link": "https://www.auroraorganics.co/product/botanical-repair-mist/",
+        "price": "$35",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/08/Botanical-Repair-serum-300x300.jpg",
+        "description": "100% plant-based formulation composed entirely of botanical extracts, containing no added water. A sacred healing beauty ritual to restore calm and radiance, this skin-renewing hydra-tonic is infused with naturopathic botanical essences selected especially for  youth-affirming, brightening, congestion-clearing, and redness-eliminating properties. Mist lavishly throughout the day – after cleansing, under or over makeup, to dissolve fatigue or stress from travel or as a mid-day pick me up. Application: Apply to face, and neck after cleansing. Continue to mist on effected area throughout the day to protect against dehydration, inflammation, and free radical damage.Use after Hyderafacial, Laser Skin Peeling. Sooth & Repair Skin Suitable for Dry & cracked skin Sensitive Skin Acne-prone Skin Oily Skin Dull skin Rough skin Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands"],
+        "tags": []
       },
       {
-        "title": "AlphaRet Overnight Cream 30ml",
-        "price": "$190.00",
-        "description": "Key benefits include:",
-        "ingredients": ["KEY INGREDIENTS"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/865800000250_SBSCAM001_AlphaRetOvernightCream30ML.webp",
-        "link": "https://getskinbeauty.com/product/alpharet-overnight-cream-30ml/"
+        "title": "Charcoal Detox Soap",
+        "link": "https://www.auroraorganics.co/product/charcoal-detox-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/charcaol-soap-1-300x300.jpg",
+        "description": "Benefits Exfoliates, deep cleanses and removes impurities from the skin Makes skin brighter and clearer through skin-brightening properties Anti-inflammatory, anti-bacterial and anti-aging How to Use Wash and cleanse your face with a Charcoal soap thrice a day. Rinse with water. Follow with a natural moisturizer. Use daily For a bearded face, work the product down to the skin and wash properly Key Ingredients 100% chemical-free, formulated with natural ingredients mainly Charcoal, Coconut Oil, Almond Extracts, Vitamin C and Vitamin E among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Normal skin Combination skin Oily skin Targets Uneven skin tone Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply AM PM",
+        "categories": ["For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Alto Advanced Defense and Repair Serum  30ml",
-        "price": "$265.00",
-        "description": "No description",
-        "ingredients": [
-          "Vitamins E & C and Coenzyme Q10",
-          "Polyphenol Rich Superfood Extracts of Acai, Turmeric, Cocoa, Green Tea, Chlorogenic Acids, Grape Seed, Mediterranean Olive",
-          "Blend of Coffee, Saffron, Superoxide Dismutase and Ergothioneine",
-          "Anti-Pollution Complex",
-          "Skin Soothing Blend",
-          "Licorice Extract",
-          "Trifluoroacétyl tripeptide-2"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809360_SBSCAM006_AltoAdvancedDefenseandRepairSeum30ML.webp",
-        "link": "https://getskinbeauty.com/product/alto-advanced-defense-and-repair-serum-30ml/"
+        "title": "Intensive Skin Repair Sandal Lotion",
+        "link": "https://www.auroraorganics.co/product/sandal-moisturiser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Sandal-Repairing-Lotion-300x300.jpg",
+        "description": "Formulated with 100% pure sandal and other healing botanical extracts. It healing by increasing skin cell turnover. It is moisturizing, soothing, anti-irritating, and stimulates healthy tissue production. Effective skin protectant and general good-skin-health promoting ingredients. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Cell Cycle Catalyst",
-        "price": "$135.00",
-        "description": "Cell Cycle Catalyst is an advanced anti-aging serum designed to accelerate skin renewal and enhance overall skincare results. This potent formulation combines a 7.7% multi-acid complex (alpha and beta hydroxy acids) with 1% Taurine to deliver comprehensive skin benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free",
-          "7.7% Multi-Acid",
-          "1% Taurine AQUA / WATER, GLYCERIN, GLYCOLIC ACID, ETHOXYDIGLYCOL, SODIUM HYDROXIDE, PHYTIC ACID, LACTIC ACID, MANDELIC ACID, TAURINE, SALICYLIC ACID, CHLORPHENESIN, CAPRYLYL GLYCOL, TETRASODIUM GLUTAMATE DIACETATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/SKC-CellCycleCatalyst-BIL-578x578px-1.webp",
-        "link": "https://getskinbeauty.com/product/cell-cycle-catalyst/"
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Discoloration Defense",
-        "price": "$150.00",
-        "description": "Discoloration Defense is an advanced daily dark spot corrector designed to target various types of skin discoloration across all skin tones. This innovative serum combines powerful ingredients to deliver comprehensive skin-brightening benefits.",
-        "ingredients": [
-          "Paraben-Free",
-          "Gluten-Free",
-          "Fragrance-Free",
-          "Hydroquinone-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/Discoloration-Defense_560x560_BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/discoloration-defense/"
+        "title": "Lavender Soothing Lotion",
+        "link": "https://www.auroraorganics.co/product/lavender-soothing-lotion/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Soothing-Lavender-Lotion-1-300x300.jpg",
+        "description": "Soothing Lavender Lotion, specially formulated with 100% Pure Lavender extract and extra goodness of shea butter. Its rich, smooth texture melts into the skin, leaving it soft, and supple. This lotion calms dry irritated skin for naturally glowing, naturally healthy skin. Its non-greasy formula conditions your skin while soothing your senses with a non-greasy feel. Also, its clinically proven formula keeps skin moisturized. Lavender oil is known to help soothe and calm the mind by reducing anxiety. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation How to use: Apply Soothing Lavender Lotion to your skin daily to help heal dry skin. Massage across your face & body until fully absorbed, and reapply in the morning, at night, or as needed throughout the day. Enjoy naturally calm and healthy glowing skin. When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Even Tone Correcting Serum 50ml",
-        "price": "$220.00",
-        "description": "Key benefits include:1) Complexion Evenness: Helps reduce the appearance of hyperpigmentation, dark spots, and uneven skin tone for a more uniform complexion2) Daily Skin Improvement: Formulated for tolerable, consistent use, allowing for gradual and sustainable skin tone enhancement3) Lightweight Hydration: Provides moisture while correcting skin tone, ensuring the skin remains hydrated and comfortable throughout the day4) Targeted Correction: Addresses multiple skin discoloration issues, including age spots, dark spots, and general skin tone irregularities5) Advanced Skincare Technology: Utilizes a sophisticated formula that not only conceals but also works to improve skin health over time",
-        "ingredients": [
-          "Diglucosyl Gallic Acid",
-          "Hexylresorcinol",
-          "Acetyl Glycyl Beta-Alanine",
-          "Alpha-Arbutin",
-          "Kakadu Plum Extract",
-          "Arginine PCA"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006252_SBSCAM018_EvenToneCorrectingSerum50ML.webp",
-        "link": "https://getskinbeauty.com/product/even-tone-correcting-serum-50ml/"
+        "title": "Niacinamide & NEEM Toner",
+        "link": "https://www.auroraorganics.co/product/salicylic-acid-neem-toner/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/SALICYLIC-ACID-NEEM-Toner-1-300x300.jpg",
+        "description": "To help reduce the appearance of hyperpigmentation and dark spots and keep skin at an optimal hydration level. Targets Hyperpigmentation Scarring Uneven skin tone Redness Large Pore Suitable for Everyone When to apply AM PM",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "EyeMax AlphaRet Overnight Cream 15ml",
-        "price": "$170.00",
-        "description": "Key benefits include:1) Advanced Anti-Aging Action: Utilizes patented AlphaRet technology, a unique combination of retinoid and alpha hydroxy acid, to effectively reduce fine lines, wrinkles, and signs of aging around the eyes2) Comprehensive Skin Improvement: Clinically proven to improve skin texture, darkness, and puffiness in as little as 4 weeks of nightly use3) Intense Hydration: Provides a rich, luxurious moisture complex that supports the skin barrier, leaving the eye area feeling softer, smoother, and firmer4) Environmental Protection: Incorporates antioxidants to defend against environmental stressors and prevent further skin damage5) Gentle Formulation: Specifically designed for the sensitive eye area, the cream is non-comedogenic and formulated without parabens, fragrances, and dyes",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809162_SBSCAM009_EyeMaxAlphaRetOvernightCream15ML.webp",
-        "link": "https://getskinbeauty.com/product/eyemax-alpharet-overnight-cream-15ml/"
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "LHA Cleansing Gel",
-        "price": "$62.00",
-        "description": "LHA Cleansing Gel is a targeted exfoliating LHA/AHA/BHA cleanser featuring a conditioning surfactant and a 12% concentration of key ingredients combining lipo-hydroxy acid, glycolic acid, salicylic acid, glycerin, and sorbitol to remove excess oils and makeup, while decongesting pores and brightening skin. Formulated for aging skin prone to breakouts, this deep cleansing gel gently refines the appearance of congested pores and helps minimize blemishes without drying the skin.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Soap-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-Cleanser-Gel_540x540_BIL.webp",
-        "link": "https://getskinbeauty.com/product/lha-cleansing-gel/"
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "LHA Serum",
-        "price": "$132.00",
-        "description": "LHA Serum is an innovative, oil-free face serum designed to address both aging concerns and acne-prone skin. This multi-functional product offers a unique combination of acids to target multiple skin issues simultaneously.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/LHA-SERUM-BIL-576x576px.webp",
-        "link": "https://getskinbeauty.com/product/lha-serum/"
-      },
-      {
-        "title": "LHA Toner",
-        "price": "$60.00",
-        "description": "Glycolic acid toner to help unclog pores and remove surface dead skin cells with lipo-hydroxy acid.",
-        "ingredients": [
-          "Fragrance-Free",
-          "LHA (Capryloyl Salicylic Acid)",
-          "Glycolic Acid",
-          "Salicylic Acid AQUA / WATER / EAU, ALCOHOL DENAT., GLYCOLIC ACID, SODIUM HYDROXIDE, CAPRYLOYL SALICYLIC ACID, SALICYLIC ACID"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000471429_LHA_TONER_BIL_new.webp",
-        "link": "https://getskinbeauty.com/product/lha-toner/"
-      },
-      {
-        "title": "Metacell B3",
-        "price": "$156.00",
-        "description": "Metacell B3 is an advanced daily face lotion designed to address early signs of aging and photoaging. This innovative formula combines key ingredients to deliver comprehensive skincare benefits",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "5% Niacinamide (Vitamin B3)",
-          "2.5% Firming Tri-Peptide Concentrate",
-          "15% Pure Glycerin AQUA / WATER / EAU, GLYCERIN, DIMETHICONE, NIACINAMIDE, PROPANEDIOL, DIMETHICONE/PEG-10/15 CROSSPOLYMER, METHYLSILANOL/SILICATE CROSSPOLYMER, SODIUM CHLORIDE, POLYMETHYLSILSESQUIOXANE, PHENOXYETHANOL, MICROCRYSTALLINE CELLULOSE, CI 77163 / BISMUTH OXYCHLORIDE, CHLORPHENESIN, CAPRYLYL GLYCOL, SODIUM CITRATE, ETHYLHEXYL HYDROXYSTEARATE, PEG-10 DIMETHICONE, DISODIUM EDTA, CELLULOSE GUM, LAMINARIA DIGITATA, EXTRACT ADENOSINE, DIPROPYLENE GLYCOL, CITRUS AURANTIUM AMARA FLOWER OIL / BITTER ORANGE FLOWER OIL, MELALEUCA VIRIDIFLORA LEAF OIL, TETRADECYL AMINOBUTYROYLVALYLAMINOBUTYRIC UREA, TRIFLUOROACETATE, LINALOOL, CYMBOPOGON SCHOENANTHUS OIL, MAGNESIUM CHLORIDE, CITRAL, TOCOPHEROL, LIMONENE, PELARGONIUM GRAVEOLENS FLOWER OIL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000432963_METACELL-B3_BIL.webp",
-        "link": "https://getskinbeauty.com/product/metacell-b3/"
-      },
-      {
-        "title": "Mystro Active Balance Serum 30ml",
-        "price": "$295.00",
-        "description": "A breakthrough daily serum designed to renew and balance skin, delivering comprehensive skincare benefits through innovative proprietary technology. This advanced formula addresses multiple skin concerns to promote a healthier, more youthful appearance.",
-        "ingredients": [
-          "Alpha Lipoic Acid (Thioctic Acid)",
-          "Astaxanthin",
-          "Ergothioneine",
-          "Isosorbide Dicaprylate",
-          "Niacinamide",
-          "Hydrolyzed Sodium Hyaluronat",
-          "Squalane"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/850016809612_SBSCAM031_MystroActiveBalanceSerum30ML.webp",
-        "link": "https://getskinbeauty.com/product/mystro-active-balance-serum-30ml/"
-      },
-      {
-        "title": "Phloretin CF",
-        "price": "$208.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "Silicone-Free KEY INGREDIENTS",
-          "2% Phloretin",
-          "10% L-Ascorbic Acid",
-          "0.5% Ferulic Acid FULL INGREDIENT LIST AQUA / WATER",
-          "DIPROPYLENE GLYCOL",
-          "ALCOHOL DENAT.",
-          "ASCORBIC ACID",
-          "BUTYLENE GLYCOL",
-          "TRIETHYL CITRATE",
-          "PHLORETIN",
-          "FERULIC ACID"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/WFP-758100_SKC-Phloretin-EN-575x575px.jpg",
-        "link": "https://getskinbeauty.com/product/phloretin-cf/"
-      },
-      {
-        "title": "Phyto A+ Brightening Treatment",
-        "price": "$142.00",
-        "description": "Phyto A+ Brightening Treatment is an innovative lightweight moisturizer designed to address multiple skin concerns, particularly for those with blemish-prone or oily skin. This versatile product combines powerful active ingredients to deliver comprehensive skincare benefits.",
-        "ingredients": [
-          "Oil-Free",
-          "Silicone-Free",
-          "2% Alpha Arbutin",
-          "3% Azelaic Acid",
-          "5.75% Phyto Botanical Blend AQUA / WATER / EAU",
-          "GLYCERIN",
-          "ISONONYL ISONONANOATE",
-          "PROPYLENE GLYCOL",
-          "AZELAIC ACID",
-          "NIACINAMIDE",
-          "SQUALANE",
-          "ALPHA-ARBUTIN",
-          "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
-          "HYDROGENATED POLYISOBUTENE",
-          "SILICA SILYLATE",
-          "HYDROXYACETOPHENONE",
-          "SODIUM HYALURONATE",
-          "CAPRYLYL GLYCOL",
-          "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
-          "SODIUM HYDROXIDE",
-          "OLEA EUROPAEA LEAF EXTRACT / OLIVE LEAF EXTRACT",
-          "PARFUM / FRAGRANCE",
-          "BUTYLENE GLYCOL",
-          "ROSMARINUS OFFICINALIS LEAF EXTRACT / ROSEMARY LEAF EXTRACT",
-          "CITRUS GRANDIS FRUIT EXTRACT / GRAPEFRUIT FRUIT EXTRACT",
-          "SODIUM BENZOATE",
-          "CUCUMIS SATIVUS FRUIT EXTRACT / CUCUMBER FRUIT EXTRACT",
-          "SORBITAN ISOSTEARATE",
-          "POLYSORBATE 60",
-          "BENZYL BENZOATE",
-          "THYMUS VULGARIS FLOWER/LEAF EXTRACT – THYME FLOWER/LEAF EXTRACT",
-          "LACTIC ACID",
-          "BENZYL ALCOHOL",
-          "ALPHA-ISOMETHYL IONONE",
-          "LINALOOL",
-          "POTASSIUM SORBATE",
-          "CITRONELLOL",
-          "MORUS ALBA ROOT EXTRACT",
-          "CI 19140 / YELLOW 5",
-          "CI 42090 / BLUE 1",
-          "TOCOPHEROL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/PHYTO-A_BIGHTENING_TREATMENT.webp",
-        "link": "https://getskinbeauty.com/product/phyto-a-brightening-treatment/"
-      },
-      {
-        "title": "Retinol 0.3",
-        "price": "$99.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free",
-          "0.3% Retinol",
-          "Soothing Complex AQUA / WATER / EAU PROPANEDIOL DIMETHICONE CETEARYL ETHYLHEXANOATE ALCOHOL DENAT. DIPROPYLENE GLYCOL AMMONIUM POLYACRYLOYLDIMETHYL TAURATE HYDROGENATED LECITHIN ALLYL METHACRYLATES CROSSPOLYMER PHENOXYETHANOL CAPRYLYL GLYCOL ISOPROPYL MYRISTATE RETINOL POLYSORBATE 20 SODIUM CITRATE BOSWELLIA SERRATA RESIN EXTRACT DIMETHICONOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE BISABOLOL CITRIC ACID BHT PROPYL GALLATE"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000509641_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-3/"
-      },
-      {
-        "title": "Retinol 0.5",
-        "price": "$108.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Dye-Free",
-          "Fragrance-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/883140025276_RETINOL-0.webp",
-        "link": "https://getskinbeauty.com/product/retinol-0-5/"
-      },
-      {
-        "title": "Scrub Mask FACE 2oz/57g",
-        "price": "$85.00",
-        "description": "Key benefits:",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006184_SBSCAM015_DetoxifyingScrubMask2oz.webp",
-        "link": "https://getskinbeauty.com/product/scrub-mask-face-2oz-57g/"
-      },
-      {
-        "title": "Tripeptide-R Neck Repair",
-        "price": "$170.00",
-        "description": "Tripeptide-R Neck Repair is an advanced retinol-based neck firming treatment designed to address early to advanced signs of neck aging. This daily cream targets visible aging concerns, including lines and wrinkles caused by repetitive neck movements, such as looking down at mobile devices.",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "0.2% Pure Retinol",
-          "5.0% Glaucine Complex",
-          "2.5% Tripeptide Concentrate AQUA/WATER/EAU, GLYCERIN, DIMETHICONE, HYDROGENATED POLYISOBUTENE, VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER, METHYL METHACRYLATE CROSSPOLYMER, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, HELIANTHUS ANNUUS SEED OIL UNSAPONIFIABLES/SUNFLOWER SEED OIL UNSAPONIFIABLES, MYRISTYL MYRISTATE, ALLYL METHACRYLATES CROSSPOLYMER, SODIUM HYDROXIDE, POTASSIUM CETYL PHOSPHATE, GLYCERYL STEARATE SE, CAPRYLOYL GLYCINE, CAPRYLYL GLYCOL, SILICA SILYLATE, PENTYLENE GLYCOL, STEARIC ACID, HYDROLYZED RICE PROTEIN, PALMITIC ACID, RETINOL, POLYSORBATE 20, COCO-GLUCOSIDE, ARGILLA/MAGNESIUM ALUMINUM SILICATE, XANTHAN GUM, ALCOHOL, BHT, SODIUM CITRATE, MYRISTIC ACID, LAVANDULA ANGUSTIFOLIA OIL/LAVENDER OIL, ROSMARINUS OFFICINALIS LEAF OIL/ROSEMARY LEAF OIL, MENTHA PIPERITA OIL/PEPPERMINT OIL, GLAUCINE, CITRIC ACID, LINALOOL, TETRADECYL AMINOBUTYROYLVALYLAMINOBUTYRIC UREA TRIFLUOROACETATE, MAGNESIUM CHLORIDE, TOCOPHEROL, PROPYL GALLATE, BIOTIN, D247390/1"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000556034_TRIPEPTIDE-R-NECK-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/tripeptide-r-neck-repair/"
+        "title": "Radiant Plump Soap",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-soap-1-300x300.jpg",
+        "description": "All-Weather Radiance in a Bar Experience the timeless healing power of nature with our Turmeric & Sandalwood Glow Bar — a luxurious, all-weather soap crafted to purify, brighten, and protect your skin year-round. Enriched with the antibacterial and antifungal properties of turmeric and the cooling, soothing essence of sandalwood , this gentle bar fights dullness, uneven tone, and daily impurities while restoring elasticity and a natural, dewy glow. Benefits Brightens dull skin and revives natural glow Fades dark spots and evens skin tone Gently exfoliates and detoxifies Infused with rich emollients to leave skin soft, smooth, and plump How to Use Use daily—morning, evening, or after sun exposure. Wet the bar and create a lather. Massage gently over damp face and body. Rinse thoroughly and pat dry. Follow with your favorite Aurora Organics Mist or Moisturizer . Key Ingredients Turmeric & Sandalwood – Anti-inflammatory, clarifying & brightening Neem & Blueberries – Antioxidant-rich & purifying Coconut Oil, Olive Oil, Cocoa & Shea Butter – Deeply moisturizing Vitamin A & E (Tocopherol) – Skin-repairing & nourishing Paraben-free | Sulfate-free | Non-toxic | Cruelty-free | 100% Chemical-Free",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
       }
     ]
   },
   {
-    "condition": "oily_skin",
+    "condition": "Oiliness",
     "description": "Oil control is managing excess oil production on the skin to prevent clogged pores and breakouts.",
     "recommended_products": [
       {
-        "title": "Clarifying Clay Masque",
-        "price": "$79.00",
-        "description": "The Clarifying Clay Masque is a comprehensive skincare treatment designed to deeply cleanse and refine the skin for those struggling with excess oil and congested pores. Formulated with premium kaolin and bentonite clays, this advanced mask offers a multi-action approach to skin purification.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "2% Mixed Fruit Extracts (Rich in Hydroxy Acids)",
-          "Kaolin and Bentonite Clays",
-          "Aloe and Chamomile AQUA / WATER / EAU, KAOLIN, BENTONITE, ALOE BARBADENSIS / ALOE BARBADENSIS LEAF JUICE,PROPYLENE GLYCOL, GLYCERIN, CI 77891 / TITANIUM DIOXIDE, ARGILLA / MAGNESIUM ALUMINUM SILICATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, CETEARYL ALCOHOL, DIMETHICONE, PHENOXYETHANOL, CETEARETH-20, VACCINIUM MYRTILLUS FRUIT EXTRACT, CAPRYLYL GLYCOL, XANTHAN GUM, HELIANTHUS ANNUUS SEED OIL / SUNFLOWER SEED OIL, SACCHARUM OFFICINARUM EXTRACT / SUGAR CANE EXTRACT / EXTRAIT DE CANNE A SUCRE, SODIUM HYDROXIDE, CITRUS AURANTIUM DULCIS FRUIT WATER / ORANGE FRUIT WATER, CITRUS LIMON FRUIT EXTRACT / LEMON FRUIT EXTRACT, ACER SACCHARINUM EXTRACT / SUGAR MAPLE EXTRACT, CHAMOMILLA RECUTITA EXTRACT / MATRICARIA FLOWER EXTRACT, ROSMARINUS OFFICINALIS LEAF OIL / ROSEMARY LEAF OIL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/635494330700_CLARIFYING-CLAY-MASQUE_BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/clarifying-clay-masque/"
+        "title": "Botanical Repair Mist",
+        "link": "https://www.auroraorganics.co/product/botanical-repair-mist/",
+        "price": "$35",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/08/Botanical-Repair-serum-300x300.jpg",
+        "description": "100% plant-based formulation composed entirely of botanical extracts, containing no added water. A sacred healing beauty ritual to restore calm and radiance, this skin-renewing hydra-tonic is infused with naturopathic botanical essences selected especially for  youth-affirming, brightening, congestion-clearing, and redness-eliminating properties. Mist lavishly throughout the day – after cleansing, under or over makeup, to dissolve fatigue or stress from travel or as a mid-day pick me up. Application: Apply to face, and neck after cleansing. Continue to mist on effected area throughout the day to protect against dehydration, inflammation, and free radical damage.Use after Hyderafacial, Laser Skin Peeling. Sooth & Repair Skin Suitable for Dry & cracked skin Sensitive Skin Acne-prone Skin Oily Skin Dull skin Rough skin Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands"],
+        "tags": []
       },
       {
-        "title": "LHA Toner",
-        "price": "$60.00",
-        "description": "Glycolic acid toner to help unclog pores and remove surface dead skin cells with lipo-hydroxy acid.",
-        "ingredients": [
-          "Fragrance-Free",
-          "LHA (Capryloyl Salicylic Acid)",
-          "Glycolic Acid",
-          "Salicylic Acid AQUA / WATER / EAU, ALCOHOL DENAT., GLYCOLIC ACID, SODIUM HYDROXIDE, CAPRYLOYL SALICYLIC ACID, SALICYLIC ACID"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000471429_LHA_TONER_BIL_new.webp",
-        "link": "https://getskinbeauty.com/product/lha-toner/"
+        "title": "Charcoal Detox Soap",
+        "link": "https://www.auroraorganics.co/product/charcoal-detox-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/charcaol-soap-1-300x300.jpg",
+        "description": "Benefits Exfoliates, deep cleanses and removes impurities from the skin Makes skin brighter and clearer through skin-brightening properties Anti-inflammatory, anti-bacterial and anti-aging How to Use Wash and cleanse your face with a Charcoal soap thrice a day. Rinse with water. Follow with a natural moisturizer. Use daily For a bearded face, work the product down to the skin and wash properly Key Ingredients 100% chemical-free, formulated with natural ingredients mainly Charcoal, Coconut Oil, Almond Extracts, Vitamin C and Vitamin E among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Normal skin Combination skin Oily skin Targets Uneven skin tone Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply AM PM",
+        "categories": ["For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Phyto A+ Brightening Treatment",
-        "price": "$142.00",
-        "description": "Phyto A+ Brightening Treatment is an innovative lightweight moisturizer designed to address multiple skin concerns, particularly for those with blemish-prone or oily skin. This versatile product combines powerful active ingredients to deliver comprehensive skincare benefits.",
-        "ingredients": [
-          "Oil-Free",
-          "Silicone-Free",
-          "2% Alpha Arbutin",
-          "3% Azelaic Acid",
-          "5.75% Phyto Botanical Blend AQUA / WATER / EAU",
-          "GLYCERIN",
-          "ISONONYL ISONONANOATE",
-          "PROPYLENE GLYCOL",
-          "AZELAIC ACID",
-          "NIACINAMIDE",
-          "SQUALANE",
-          "ALPHA-ARBUTIN",
-          "AMMONIUM POLYACRYLOYLDIMETHYL TAURATE",
-          "HYDROGENATED POLYISOBUTENE",
-          "SILICA SILYLATE",
-          "HYDROXYACETOPHENONE",
-          "SODIUM HYALURONATE",
-          "CAPRYLYL GLYCOL",
-          "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
-          "SODIUM HYDROXIDE",
-          "OLEA EUROPAEA LEAF EXTRACT / OLIVE LEAF EXTRACT",
-          "PARFUM / FRAGRANCE",
-          "BUTYLENE GLYCOL",
-          "ROSMARINUS OFFICINALIS LEAF EXTRACT / ROSEMARY LEAF EXTRACT",
-          "CITRUS GRANDIS FRUIT EXTRACT / GRAPEFRUIT FRUIT EXTRACT",
-          "SODIUM BENZOATE",
-          "CUCUMIS SATIVUS FRUIT EXTRACT / CUCUMBER FRUIT EXTRACT",
-          "SORBITAN ISOSTEARATE",
-          "POLYSORBATE 60",
-          "BENZYL BENZOATE",
-          "THYMUS VULGARIS FLOWER/LEAF EXTRACT – THYME FLOWER/LEAF EXTRACT",
-          "LACTIC ACID",
-          "BENZYL ALCOHOL",
-          "ALPHA-ISOMETHYL IONONE",
-          "LINALOOL",
-          "POTASSIUM SORBATE",
-          "CITRONELLOL",
-          "MORUS ALBA ROOT EXTRACT",
-          "CI 19140 / YELLOW 5",
-          "CI 42090 / BLUE 1",
-          "TOCOPHEROL"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/PHYTO-A_BIGHTENING_TREATMENT.webp",
-        "link": "https://getskinbeauty.com/product/phyto-a-brightening-treatment/"
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
       },
       {
-        "title": "Silymarin CF",
-        "price": "$208.00",
-        "description": "Key benefits:",
-        "ingredients": ["Oil-Free", "Dye-Free", "Silicone-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/WFP-758100_SKC-Silymarin-EN-575x575px.webp",
-        "link": "https://getskinbeauty.com/product/silymarin-cf/"
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
       },
       {
-        "title": "Solo Hydrating Defense – MEN 50ml",
-        "price": "$230.00",
-        "description": "Key benefits:",
-        "ingredients": [
-          "Opuntia Ficus-Indica Stem Extract",
-          "Nymphaea Caerulea Flower and Nelumbo Nucifera Flower Extracts",
-          "Aminopropyl Ascorbyl Phosphate",
-          "Tocopherol",
-          "Ectoin and Hydroxyectoin"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/SB5327_SoloHydratingDefenseMEN50ML.jpg",
-        "link": "https://getskinbeauty.com/product/solo-hydrating-defense-men-50ml/"
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Rose Face Mist",
+        "link": "https://www.auroraorganics.co/product/radiant-rose-face-mist/",
+        "price": "$13.95",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/rose-mist-1-300x300.jpg",
+        "description": "Hydrated Glow | Pollution Protection | Mood Boosting Give your skin an instant glow-up with our 100% Pure &  Natural Rose Mist , crafted to refresh, hydrate, and protect. This lightweight, hyaluronic-acid-infused face mist is powered by rose hydrosol and botanical actives that brighten dull skin , defend against environmental stressors, and provide an instant dewy glow —without any stickiness or residue. Benefits Rose Water and skincare-first ingredients contain natural healing and anti-inflammatory properties to balance, refresh and hydrate your skin. Helps protect from the damaging effects of pollution & blue light-overexposure linked to premature skin aging. Delivers the ultimate pearlescent glow and has a mood-boosting, refreshing scent. To soften, balance and regenerate your face, as well as tighten and minimize pores. Ideal for: Dry Skin – Delivers lasting hydration and comfort Oily Skin – Refreshes without adding shine or residue Combination Skin – Hydrates and balances dry and oily zones Sensitive Skin – Alcohol-free, gentle, and calming Mature Skin – Boosts radiance and protects from premature aging All Skin Types – Universally compatible and non-comedogenic Targets Dullness & dehydration Premature aging due to pollution or screen exposure Redness, irritation, and sensitivity Large or visible pores Uneven skin tone and lack of radiance How to Use Shake the bottle generously before spraying. Reapply throughout the day for an instant, refreshing glow. Wears well under or over makeup. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Rosa Extract, Actinidia Chinensis (Kiwi) Fruit Water, Beta Vulgaris (Beet) Root Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Lactic Acid, Citric Acid and among other ingredients. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands"],
+        "tags": []
       }
     ]
   },
   {
-    "condition": "Post-Procedure",
-    "description": "Post-procedure refers to the care and healing process that follows a skincare treatment or medical procedure.",
+    "condition": "Sensitivity",
+    "description": "Sensitive skin is a condition where the skin reacts easily to products, environmental factors, or allergens, leading to redness or irritation.",
     "recommended_products": [
       {
-        "title": "C E Ferulic",
-        "price": "$208.00",
-        "description": "Key benefits include:1) Environmental Protection: Shields skin from free radical damage caused by UV rays, pollution, and other environmental aggressors2) Anti-Aging Effects: Improves the appearance of fine lines, wrinkles, and loss of firmness3) Skin Brightening: Enhances skin’s complexion, promoting a more radiant appearance4) Long-Lasting Efficacy: Once absorbed, the serum remains effective for a minimum of 72 hours5) Clinically Proven Results: Demonstrated to reduce combined oxidative damage from UVA/UVB rays, ozone pollution, and diesel exhaust by up to 41%",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Silicone-Free"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/PS41406-SKC-P23-CE-Ferulic-Website-PACKSHOT-RGB-560x560px-BIL-1.webp",
-        "link": "https://getskinbeauty.com/product/c-e-ferulic/"
+        "title": "Botanical Repair Mist",
+        "link": "https://www.auroraorganics.co/product/botanical-repair-mist/",
+        "price": "$35",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/08/Botanical-Repair-serum-300x300.jpg",
+        "description": "100% plant-based formulation composed entirely of botanical extracts, containing no added water. A sacred healing beauty ritual to restore calm and radiance, this skin-renewing hydra-tonic is infused with naturopathic botanical essences selected especially for  youth-affirming, brightening, congestion-clearing, and redness-eliminating properties. Mist lavishly throughout the day – after cleansing, under or over makeup, to dissolve fatigue or stress from travel or as a mid-day pick me up. Application: Apply to face, and neck after cleansing. Continue to mist on effected area throughout the day to protect against dehydration, inflammation, and free radical damage.Use after Hyderafacial, Laser Skin Peeling. Sooth & Repair Skin Suitable for Dry & cracked skin Sensitive Skin Acne-prone Skin Oily Skin Dull skin Rough skin Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands"],
+        "tags": []
       },
       {
-        "title": "Cleansing Gel 237ml",
-        "price": "$70.00",
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
+      },
+      {
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Lavender Soothing Lotion",
+        "link": "https://www.auroraorganics.co/product/lavender-soothing-lotion/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Soothing-Lavender-Lotion-1-300x300.jpg",
+        "description": "Soothing Lavender Lotion, specially formulated with 100% Pure Lavender extract and extra goodness of shea butter. Its rich, smooth texture melts into the skin, leaving it soft, and supple. This lotion calms dry irritated skin for naturally glowing, naturally healthy skin. Its non-greasy formula conditions your skin while soothing your senses with a non-greasy feel. Also, its clinically proven formula keeps skin moisturized. Lavender oil is known to help soothe and calm the mind by reducing anxiety. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation How to use: Apply Soothing Lavender Lotion to your skin daily to help heal dry skin. Massage across your face & body until fully absorbed, and reapply in the morning, at night, or as needed throughout the day. Enjoy naturally calm and healthy glowing skin. When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Rose Face Mist",
+        "link": "https://www.auroraorganics.co/product/radiant-rose-face-mist/",
+        "price": "$13.95",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/rose-mist-1-300x300.jpg",
+        "description": "Hydrated Glow | Pollution Protection | Mood Boosting Give your skin an instant glow-up with our 100% Pure &  Natural Rose Mist , crafted to refresh, hydrate, and protect. This lightweight, hyaluronic-acid-infused face mist is powered by rose hydrosol and botanical actives that brighten dull skin , defend against environmental stressors, and provide an instant dewy glow —without any stickiness or residue. Benefits Rose Water and skincare-first ingredients contain natural healing and anti-inflammatory properties to balance, refresh and hydrate your skin. Helps protect from the damaging effects of pollution & blue light-overexposure linked to premature skin aging. Delivers the ultimate pearlescent glow and has a mood-boosting, refreshing scent. To soften, balance and regenerate your face, as well as tighten and minimize pores. Ideal for: Dry Skin – Delivers lasting hydration and comfort Oily Skin – Refreshes without adding shine or residue Combination Skin – Hydrates and balances dry and oily zones Sensitive Skin – Alcohol-free, gentle, and calming Mature Skin – Boosts radiance and protects from premature aging All Skin Types – Universally compatible and non-comedogenic Targets Dullness & dehydration Premature aging due to pollution or screen exposure Redness, irritation, and sensitivity Large or visible pores Uneven skin tone and lack of radiance How to Use Shake the bottle generously before spraying. Reapply throughout the day for an instant, refreshing glow. Wears well under or over makeup. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Rosa Extract, Actinidia Chinensis (Kiwi) Fruit Water, Beta Vulgaris (Beet) Root Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Lactic Acid, Citric Acid and among other ingredients. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "condition": "Wrinkles",
+    "description": "Wrinkles are lines or creases in the skin that develop with age, sun exposure, and other factors.",
+    "recommended_products": [
+      {
+        "title": "Charcoal Detox Soap",
+        "link": "https://www.auroraorganics.co/product/charcoal-detox-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/charcaol-soap-1-300x300.jpg",
+        "description": "Benefits Exfoliates, deep cleanses and removes impurities from the skin Makes skin brighter and clearer through skin-brightening properties Anti-inflammatory, anti-bacterial and anti-aging How to Use Wash and cleanse your face with a Charcoal soap thrice a day. Rinse with water. Follow with a natural moisturizer. Use daily For a bearded face, work the product down to the skin and wash properly Key Ingredients 100% chemical-free, formulated with natural ingredients mainly Charcoal, Coconut Oil, Almond Extracts, Vitamin C and Vitamin E among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Normal skin Combination skin Oily skin Targets Uneven skin tone Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply AM PM",
+        "categories": ["For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Gold Serum",
+        "link": "https://www.auroraorganics.co/product/gold-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/gold-serum-1-2-300x300.jpg",
+        "description": "Restores dull skin’s elasticity for firmer, youthful-looking & glowing skin with our Gold Serum. A lightweight serum, the 23K Gold Serum helps to restore dull skin’s elasticity bringing back the firmer, youthful-looking skin. The serum is formulated with real 23K Gold to fight fine lines, and wrinkles, leaving your skin moisturized and glowing. Benefits Restores skin firmness and elasticity Add a natural, pearlescent glow to dull skin Make your skin look younger for longer In addition to their powerful skincare properties, our ingredients also provide unique aromatherapy experiences to uplift or calm your mood. How To Use Wash your face with a natural face wash. Apply a few drops of serum to clean hands or a cotton pad and gently pat onto your face. For best results, follow with your regular skincare routine. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Moringa Oleifera (Moringa) Oil, Organic Orbignya Olifera (Babassu) Oil, Organic Virgin Argania Spinosa (Argan) Oil, Daucus Carota Sativa, (Carrot) Oil and 23 Karat Gold. Paraben-free, Sulfate-free, Non-toxic Benefits Restores skin firmness and elasticity Add a natural, pearlescent glow to dull skin Make your skin look younger for longer How To Use Wash your face with a natural face wash. Apply a few drops of serum to clean hands or a cotton pad and gently pat onto your face. For best results, follow with your regular skincare routine. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Moringa Oleifera (Moringa) Oil, Organic Orbignya Olifera (Babassu) Oil, Organic Virgin Argania Spinosa (Argan) Oil, Daucus Carota Sativa, (Carrot) Oil and 23 Karat Gold. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Rose Face Mist",
+        "link": "https://www.auroraorganics.co/product/radiant-rose-face-mist/",
+        "price": "$13.95",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/rose-mist-1-300x300.jpg",
+        "description": "Hydrated Glow | Pollution Protection | Mood Boosting Give your skin an instant glow-up with our 100% Pure &  Natural Rose Mist , crafted to refresh, hydrate, and protect. This lightweight, hyaluronic-acid-infused face mist is powered by rose hydrosol and botanical actives that brighten dull skin , defend against environmental stressors, and provide an instant dewy glow —without any stickiness or residue. Benefits Rose Water and skincare-first ingredients contain natural healing and anti-inflammatory properties to balance, refresh and hydrate your skin. Helps protect from the damaging effects of pollution & blue light-overexposure linked to premature skin aging. Delivers the ultimate pearlescent glow and has a mood-boosting, refreshing scent. To soften, balance and regenerate your face, as well as tighten and minimize pores. Ideal for: Dry Skin – Delivers lasting hydration and comfort Oily Skin – Refreshes without adding shine or residue Combination Skin – Hydrates and balances dry and oily zones Sensitive Skin – Alcohol-free, gentle, and calming Mature Skin – Boosts radiance and protects from premature aging All Skin Types – Universally compatible and non-comedogenic Targets Dullness & dehydration Premature aging due to pollution or screen exposure Redness, irritation, and sensitivity Large or visible pores Uneven skin tone and lack of radiance How to Use Shake the bottle generously before spraying. Reapply throughout the day for an instant, refreshing glow. Wears well under or over makeup. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Rosa Extract, Actinidia Chinensis (Kiwi) Fruit Water, Beta Vulgaris (Beet) Root Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Lactic Acid, Citric Acid and among other ingredients. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "condition": "Redness",
+    "description": "Redness is a common skin condition characterized by inflamed or irritated skin, often due to various factors like allergies or sunburn.",
+    "recommended_products": [
+      {
+        "title": "Botanical Repair Mist",
+        "link": "https://www.auroraorganics.co/product/botanical-repair-mist/",
+        "price": "$35",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/08/Botanical-Repair-serum-300x300.jpg",
+        "description": "100% plant-based formulation composed entirely of botanical extracts, containing no added water. A sacred healing beauty ritual to restore calm and radiance, this skin-renewing hydra-tonic is infused with naturopathic botanical essences selected especially for  youth-affirming, brightening, congestion-clearing, and redness-eliminating properties. Mist lavishly throughout the day – after cleansing, under or over makeup, to dissolve fatigue or stress from travel or as a mid-day pick me up. Application: Apply to face, and neck after cleansing. Continue to mist on effected area throughout the day to protect against dehydration, inflammation, and free radical damage.Use after Hyderafacial, Laser Skin Peeling. Sooth & Repair Skin Suitable for Dry & cracked skin Sensitive Skin Acne-prone Skin Oily Skin Dull skin Rough skin Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands"],
+        "tags": []
+      },
+      {
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
+      },
+      {
+        "title": "Intensive Skin Repair Sandal Lotion",
+        "link": "https://www.auroraorganics.co/product/sandal-moisturiser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Sandal-Repairing-Lotion-300x300.jpg",
+        "description": "Formulated with 100% pure sandal and other healing botanical extracts. It healing by increasing skin cell turnover. It is moisturizing, soothing, anti-irritating, and stimulates healthy tissue production. Effective skin protectant and general good-skin-health promoting ingredients. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation When to apply AM PM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Lavender Soothing Lotion",
+        "link": "https://www.auroraorganics.co/product/lavender-soothing-lotion/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Soothing-Lavender-Lotion-1-300x300.jpg",
+        "description": "Soothing Lavender Lotion, specially formulated with 100% Pure Lavender extract and extra goodness of shea butter. Its rich, smooth texture melts into the skin, leaving it soft, and supple. This lotion calms dry irritated skin for naturally glowing, naturally healthy skin. Its non-greasy formula conditions your skin while soothing your senses with a non-greasy feel. Also, its clinically proven formula keeps skin moisturized. Lavender oil is known to help soothe and calm the mind by reducing anxiety. Suitable for Dry & cracked skin Dull skin Rough skin. Targets Dull skin Uneven skin tone Redness Hyperpigmentation How to use: Apply Soothing Lavender Lotion to your skin daily to help heal dry skin. Massage across your face & body until fully absorbed, and reapply in the morning, at night, or as needed throughout the day. Enjoy naturally calm and healthy glowing skin. When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Niacinamide & NEEM Toner",
+        "link": "https://www.auroraorganics.co/product/salicylic-acid-neem-toner/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/SALICYLIC-ACID-NEEM-Toner-1-300x300.jpg",
+        "description": "To help reduce the appearance of hyperpigmentation and dark spots and keep skin at an optimal hydration level. Targets Hyperpigmentation Scarring Uneven skin tone Redness Large Pore Suitable for Everyone When to apply AM PM",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Rose Face Mist",
+        "link": "https://www.auroraorganics.co/product/radiant-rose-face-mist/",
+        "price": "$13.95",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/rose-mist-1-300x300.jpg",
+        "description": "Hydrated Glow | Pollution Protection | Mood Boosting Give your skin an instant glow-up with our 100% Pure &  Natural Rose Mist , crafted to refresh, hydrate, and protect. This lightweight, hyaluronic-acid-infused face mist is powered by rose hydrosol and botanical actives that brighten dull skin , defend against environmental stressors, and provide an instant dewy glow —without any stickiness or residue. Benefits Rose Water and skincare-first ingredients contain natural healing and anti-inflammatory properties to balance, refresh and hydrate your skin. Helps protect from the damaging effects of pollution & blue light-overexposure linked to premature skin aging. Delivers the ultimate pearlescent glow and has a mood-boosting, refreshing scent. To soften, balance and regenerate your face, as well as tighten and minimize pores. Ideal for: Dry Skin – Delivers lasting hydration and comfort Oily Skin – Refreshes without adding shine or residue Combination Skin – Hydrates and balances dry and oily zones Sensitive Skin – Alcohol-free, gentle, and calming Mature Skin – Boosts radiance and protects from premature aging All Skin Types – Universally compatible and non-comedogenic Targets Dullness & dehydration Premature aging due to pollution or screen exposure Redness, irritation, and sensitivity Large or visible pores Uneven skin tone and lack of radiance How to Use Shake the bottle generously before spraying. Reapply throughout the day for an instant, refreshing glow. Wears well under or over makeup. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Rosa Extract, Actinidia Chinensis (Kiwi) Fruit Water, Beta Vulgaris (Beet) Root Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Grandis (Grapefruit) Peel Extract, Lactic Acid, Citric Acid and among other ingredients. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "condition": "Eczema",
+    "description": "Eczema is a chronic skin condition that causes inflamed, itchy, and red patches on the skin.",
+    "recommended_products": [
+      {
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
+      }
+    ]
+  },
+  {
+    "condition": "Scars",
+    "description": "Scars are marks left on the skin after a wound or injury has healed, often appearing as discolored or textured areas.",
+    "recommended_products": [
+      {
+        "title": "Detox Sandal Scrub",
+        "link": "https://www.auroraorganics.co/product/detox-sandal-scrub/",
+        "price": "$21",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/detox-sandal-scrub-1-300x300.jpg",
+        "description": "Our Sandal facial and body scrub detoxify, exfoliate and deep cleanse your skin with the detoxifying powers of sandal and turmeric and soothing botanical extracts this plant-based scrub removes everyday impurities and leaves your skin soft and smooth. Balances skin tone by gently exfoliating the skin. Rich in vitamins and minerals and is great for revitalizing the skin. Benefits Balancing, revitalizing, exfoliating and clarifying It has anti-ageing properties A cure for pimples and acne It removes scars and softens the skin It has anti-tanning properties Sandalwood extract and essential oil in scrub can treat eczema Hand-blended & all-natural essential oils and vitamin extracts With purifying, oil-absorbing kaolin clay For all skin types How to Use Massage lightly onto your skin using an upward circular motion, taking care of the delicate eye area. Rinse off with cold water, then gently pat dry and follow-up with  Dewy Sandal Mist All our products must be tested for skin sensitivity and allergies. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Sandal, chamomile and turmeric among other ingredients. Paraben-free, Sulfate-free, Non-toxic Oily Skin – Helps regulate excess oil and unclogs pores Combination Skin – Balances dry and oily areas while maintaining skin harmony Acne-Prone Skin – Contains turmeric and sandalwood to reduce breakouts and calm inflammation Dry Skin – Gently exfoliates without stripping natural moisture; nourishes with vitamin-rich botanicals Sensitive Skin – Chamomile and sandalwood provide a soothing, calming effect Dull or Tired Skin – Boosts radiance and improves texture with regular use Pigmented or Uneven Skin Tone – Helps lighten spots and even out complexion over time",
+        "categories": ["Face & Hands"],
+        "tags": ["#Detox", "#Sandal", "#Scrub", "audio"]
+      },
+      {
+        "title": "Radiant Plump Moisturizer with Glutathione",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-moisturizer/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/20240125_024924-300x300.jpg",
+        "description": "Hydrate and revitalize skin with Radiant Plump Moisturizer, enriched with powerful antioxidants and skin-brightening agents. Infused with glutathione, hyaluronic acid, vitamin C, alpha arbutin, and kojic acid, this luxurious formula deeply nourishes, plumps, and brightens the complexion. Eco-friendly and natural, it supports a youthful, radiant glow with consistent use. Benefits Radiates and brightens the skin Remove black spots, pigmentations and Melasma Reduce dark spots and uneven skin tone Restores skin moisture and prevents dryness or irritation Directions for Use Cleanse the face and pat dry. Apply Botanical Mist or Natural Dewy Face Mist. Follow with Radiant Plump Serum. Apply a small amount of Radiant Plump Moisturizer to fingertips. Gently massage onto face and neck using upward circular motions until fully absorbed. Use daily, morning and night, for optimal results. Key Ingredients & Benefits Glutathione : A powerful antioxidant that helps brighten the skin, reducing the appearance of fine lines and promoting an even skin tone. Hyaluronic Acid : Deeply hydrates the skin, enhancing plumpness and a smooth, supple texture. Vitamin C : Supports collagen synthesis, brightens skin tone, and enhances radiance. Alpha Arbutin : Naturally brightens and targets dark spots and uneven skin tone. Kojic Acid : Reduces discoloration, helping to improve skin brightness and evenness. Niacinamide (Vitamin B3) : Strengthens the skin barrier, reduces redness, and improves texture. B erry & Mushroom Extracts: Antioxidant protection to rejuvenate and refresh Sandalwood Extract : Known for its anti-inflammatory and soothing properties, sandalwood helps calm irritated skin, reduce redness, and even out skin tone. It also provides a gentle, natural fragrance and aids in minimizing blemishes for a clear, radiant complexion. Paraben-free, Sulfate-free, Non-toxic",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
+      }
+    ]
+  },
+  {
+    "condition": "Unspecified",
+    "description": "Unspecified skin conditions are those that do not fall into a specific category or are not clearly defined.",
+    "recommended_products": [
+      {
+        "title": "Beard and Hair Balm",
+        "link": "https://www.auroraorganics.co/product/beard-and-hair-balm/",
+        "price": "$24",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/beared-balm-1-300x300.jpg",
+        "description": "Men’s hair is tough to manage and the amount of pollution, sun exposure and stress they go through require the equivalent amount of care. This beard and hair balm is all you need to add smoothness and shine to the rough, dry, brittle and shabby beard and scalp hair. It combats dandruff and hair fall and helps keep your hair look healthy and shiny until the next wash. Benefits Locks in moisture and tames frizz & flyaways Prevents and reduces dandruff and hair fall, softens the hair strands Revitalizes rough hair and makes styling easier How to Use Wash hair and face. Towel-dry to remove excess water Apply a little amount to wet beard and hair. Massage towards hair tips Avoid hair roots, face and scalp. This product is not meant for the face, scalp and roots Key Ingredients 100% chemical-free, formulated with natural ingredients including Shea Nut Butter, Coconut Oil, Sweet Almond Oil, Olive Oil, Avocado Oil, Apricot Kernel Oil, Pumpkin Seed Oil, Castor Oil, Beeswax, Golden Jojoba Oil, Argan Oil, Soft & Silky Emulsifying Wax, Candelilla Wax, Clove Bud Essential Oil, Cedarwood Essential Oil, Star Anise Essential Oil, Grapefruit (Pink) Essential Oil, Cinnamon Leaf Essential Oil, Bulgarian Lavender Essential Oil, Kokum Butter, Cocoa Butter, and Peppermint Essential Oil. Sulfate-free, Paraben-free, non-toxic and cruelty-free.",
+        "categories": ["For Him"],
+        "tags": []
+      },
+      {
+        "title": "Botanical Nutrify Hair Oil",
+        "link": "https://www.auroraorganics.co/product/botanical-nutrify-hair-oil/",
+        "price": "$11.83",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/hair-oil-1-300x300.jpg",
+        "description": "Formulated with essential oils and infused with 14 precious time-tested herbs, Aurora Organics’ hair oil gives strength, smoothness and shine to men’s hair while making them look fuller and thicker over the long run. It combats dandruff and hair fall and helps keep your hair healthy for longer. Benefits Locks in moisture, replenish nutrients, tames frizz and flyaways Prevents and reduces dandruff and hair fall, softens the hair strands Hydrates and revitalizes rough hair and makes hair tips smooth and shiny How to Use Apply oil on hair wait for 30 to 60 min Massage in scalp and hair roots. Rub on hair tips gentle. Wash with  Gentle Shampoo and follow up with Aurora Organics’ Leave in therapeutic Conditioner. Key Ingredients 100% chemical-free, formulated with natural ingredients including Bhringraj Oil, Onion Oil & other 14 Natural Anti-Hair fall Herbs. Non-toxic and cruelty-free.",
+        "categories": ["For Her", "For Him"],
+        "tags": [
+          "#AntiHairFall",
+          "#EssentialOilsHair",
+          "#HairOil",
+          "#NaturalHairOil",
+          "#timetested"
+        ]
+      },
+      {
+        "title": "Calmer Blend and Soap",
+        "link": "https://www.auroraorganics.co/product/calmer-blend-and-soap/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/calmer-2-300x300.jpg",
+        "description": "Beyond smelling great, Calmer blend can also help improve your health and mood Improve sleep quality, Reduce stress & anxiety soothe nerves It is handcrafted with love and a number of well-researched ingredients to soothe your nerves, promote peaceful sleep and boost your productivity. Relieve headaches. Size: 15 ml Essential oil blend+ Calming Natural Soap ( 80gm )",
+        "categories": [
+          "Aroma Therapy and Natural Healing",
+          "For Her",
+          "For Him",
+          "Gift Box"
+        ],
+        "tags": ["#aromatherapy", "#Calmer", "#essentiolOil", "Trend"]
+      },
+      {
+        "title": "Gift For Her",
+        "link": "https://www.auroraorganics.co/product/gift-for-her/",
+        "price": "$80",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/gift-for-her-2-300x300.jpg",
         "description": "",
-        "ingredients": [],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/858970006337_SBSCAM014_CleansingGel8oz.webp",
-        "link": "https://getskinbeauty.com/product/cleansing-gel-237ml/"
+        "categories": ["Gift Box"],
+        "tags": []
       },
       {
-        "title": "Epidermal Repair",
-        "price": "$94.00",
-        "description": "Key benefits include:1) Skin Barrier Restoration: Facilitates rapid repair of the skin’s natural protective barrier, helping to accelerate healing and reduce vulnerability2) Redness Reduction: Effectively diminishes the appearance of skin redness and inflammation, providing a calming effect on sensitive skin3) Post-Procedure Support: Ideal for use after dermatological treatments like chemical peels, laser resurfacing, and IPL, helping to soothe and rehabilitate skin4) Moisture Retention: Acts as a protective veil to retain moisture and support skin’s natural healing processes5) Gentle Formulation: Suitable for normal to dry skin types, with key ingredients like beta glucan, centella asiatica extract, and nymphea alba flower extract that work together to soothe and protect the skin",
-        "ingredients": [
-          "Paraben-Free",
-          "Alcohol-Free",
-          "Fragrance-Free",
-          "Dye-Free",
-          "Non-Comedogenic",
-          "Silicone-Free"
+        "title": "Gift For Him",
+        "link": "https://www.auroraorganics.co/product/gift-for-him/",
+        "price": "$90",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/gift-for-him-1-300x300.jpg",
+        "description": "",
+        "categories": ["For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Natural Hand Sanitizer / Disinfectant  SPRAY",
+        "link": "https://www.auroraorganics.co/product/natural-hand-sanitizer-disinfectant-spray/",
+        "price": "$14",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/senitizer-300x300.jpg",
+        "description": "Kills 99.9% of All Germs One-Step Safe Disinfectant Portable spray bottle for the on-the-go peace of mind Do not use * in children less than 2 months of age * on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Soft and Hard Surfaces * Kills 99.9% of germs including norovirus, ( Covid -19 ) from the surfaces or items you touch, such as office desks, door handles. * For laptop, phone, ATM machine, vehicles. (spray on paper towel then wipe , and allow it to dry ) * Consider putting a wipeable cover on electronics. * For soft surfaces such as carpeted floor, rugs, and drapes. Directions * Place enough product on hands to cover all surfaces. Rub hands together until dry. * Supervise children under 6 years of age when using this product to avoid swallowing. Other information * Store between 15-30C (59-86F) * Avoid freezing and excessive heat above 40C (104F) Ingredients: (v/v) Purpose Benzalkonium Chloride 0.15%, Copper, Water, Propylene Glycol, Aloe Vera Leaf Juice, Neem & Turmeric Hydrosol, Hydroxyethylcellulose, Melaleuca Alternifolia (Tea Tree) EO, Lavender, Eucalyptus, Wild Orange, Rosemary, Camphor, Glycrin & Euclutus Features: Alcohol-free, non-drying to the skin Kills 99.99% of harmful germs and bacteria Rinse-free formula — no soap, water, or towels needed Enriched with skin conditioners Gentle enough for frequent use Non-flammable, dye-free *Our bestselling no-rinse formula is perfect and much needed for many high traffic areas where germs and harmful bacteria are widespread. For external use only",
+        "categories": ["Sanitizer and Disinfectant"],
+        "tags": []
+      },
+      {
+        "title": "Natural Hand Senitizer / Foaming",
+        "link": "https://www.auroraorganics.co/product/natural-hand-senitizer-foaming/",
+        "price": "$16.50",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/natural-senitizer-spray-300x300.jpg",
+        "description": "Kills 99.9% of All Germs One-Step Safe Disinfectant Portable bottle for the on-the-go peace of mind Do not use * in children less than 2 months of age * on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Soft and Hard Surfaces * Kills 99.9% of germs including norovirus, ( Covid -19 ). Directions * Place enough product on hands to cover all surfaces. Rub hands together until dry. * Supervise children under 6 years of age when using this product to avoid swallowing. Other information * Store between 15-30C (59-86F) * Avoid freezing and excessive heat above 40C (104F) Ingredients: (v/v) Purpose Benzalkonium Chloride 0.15%, Copper, Water, Propylene Glycol, Aloe Vera Leaf Juice, Neem & Turmeric Hydrosol, Hydroxyethylcellulose, Melaleuca Alternifolia (Tea Tree) EO, Lavender, Eucalyptus, Wild Orange, Rosemary, Camphor, Glycrin & Euclutus Features: Alcohol-free, non-drying to the skin Kills 99.99% of harmful germs and bacteria Rinse-free formula — no soap, water, or towels needed Enriched with skin conditioners Gentle enough for frequent use Non-flammable, dye-free *Our bestselling no-rinse formula is perfect and much needed for many high traffic areas where germs and harmful bacteria are widespread. For external use only",
+        "categories": ["Sanitizer and Disinfectant"],
+        "tags": []
+      },
+      {
+        "title": "Natural Multi-Surface Cleaner",
+        "link": "https://www.auroraorganics.co/product/natural-multi-surface-cleaner/",
+        "price": "$20",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/Natural-Multi-Surface-Cleaner-1-300x300.jpg",
+        "description": "Our natural multi-surface cleaner is made with the power of plant-based cleaning agents that do not cause harm to your skin and never cause breathing issues and irritation. Our plant-powered multi-surface cleaner is an effective universal cleaner that removes dirt, residue, grease, and other impressions from the surfaces. It is suitable for glass, wood, plastic and metal. Benefits Our ingredients are plant-based, non-toxic, hypoallergenic, free of harsh chemicals, and child & pet safe Our formulas safely break down within a month, our refill pouches save more than 90% in plastic, water and energy Cleaning without residues. One Cleaner – All surfaces Directions of Use Spray affected surface, using a sweeping motion, with one trigger pull per 2 x 2 area. Using a clean, folded microfiber cloth and medium pressure, wipe in straight, fast-moving, overlapping passes. You want to make tight Z patterns with your cloth. You will see the wetness pattern evaporate shortly after you pass over which confirms you are cleaning correctly. For heavily soiled areas, spray the affected surface and wait 30 seconds before using the instructions above. Ingredients Purified Water, Natural Surfactant (Vegetable-Based Cleanser), Alcohol Ethoxylate (Plant-Based Cleanser), Benzisothiazolinone (Biodegradable Preservative), Sodium Citrate (Plant-Based pH Neutralizer), Organic Lemon Essential Oil, Natural Fragrance, Citric Acid (Plant-Based pH Neutralizer)",
+        "categories": [
+          "House Hold Products",
+          "Household",
+          "Sanitizer and Disinfectant"
         ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/883140028048_EPIDERMAL-REPAIR_BIL.webp",
-        "link": "https://getskinbeauty.com/product/epidermal-repair/"
+        "tags": []
       },
       {
-        "title": "HA Intensifier",
-        "price": "$150.00",
-        "description": "Key benefits include:1) Hyaluronic Acid Amplification: Clinically proven to increase skin’s hyaluronic acid levels by 30%, enhancing overall hydration and plumpness2) Visible Anti-Aging Effects: Reduces the appearance of crow’s feet, nasolabial folds, and marionette lines, improving skin firmness and smoothness3) Multi-Dimensional Hydration: Utilizes a unique combination of pure hyaluronic acid, Proxylane, and botanical extracts to provide long-lasting hydration and improve skin texture4) Versatile Application: Suitable for all skin types and can be used as part of a post-dermal filler skincare regimen (with physician approval)5) Comprehensive Skin Improvement: In clinical studies, demonstrated significant improvements in skin plumpness, firmness, elasticity, and overall texture within 12 weeks of use",
-        "ingredients": ["Paraben-Free", "Dye-Free", "Fragrance-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/WFP-980559-SKC-W24-HA-INTENSIFIER_BIL-576x576px_BIL.webp",
-        "link": "https://getskinbeauty.com/product/ha-intensifier/"
+        "title": "Neem Liquid Dishwash",
+        "link": "https://www.auroraorganics.co/product/neem-liquid-dishwash/",
+        "price": "$160",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/Neem-Dish-Wash-1-300x300.jpg",
+        "description": "Aurora Neem Liquid Dishwash, citrus lemon scent is the grease-fighting dish soap that washes away bacteria from hands. While Aurora dish wash is tough on grease, it is made to be gentle on the earth with biodegradable cleaning ingredients and sustainable packaging. Make a difference at home and in the environment with Aurora Dishwash. It can also be used as a handwash owing to its anti-bacterial properties. When used as a hand soap. Wash away dirt and bacteria for good hand hygiene. Benefits Tough on grease, but gentle on the planet Washes away bacteria from hands Citrus lemon scent is also the grease-fighting dish soap How to Use Healthcare agencies recommend washing hands with clean water. Use a drop of liquid wash to create lather, scrub for 20 seconds and rinse. Safety Information May irritate eyes. Keep away from eyes. Keep out of reach of children. First aid treatment: Contains anionic surfactants. If swallowed, drink a glass of water to dilute. If in the eyes, rinse with water for 15 minutes. Key Ingredients Linear Alkyl Benzene Sulphonic Acid (LABSA), Sodium Hydroxide, Cocoamido Propyl Betaine (CAPB), Coconut di-ethanol-amide (CDEA), Sodium Lauryl Ether Sulphate (SLES), Sodium Lauryl Sulphate (SLS), Propylene Glycol, Glycerine, Colour~Fragrance~Water and botanical extracts",
+        "categories": ["Household"],
+        "tags": []
       },
       {
-        "title": "P-TIOX",
-        "price": "$180.00",
-        "description": "Key benefits:",
-        "ingredients": ["Paraben-Free", "Dye-Free", "Fragrance-Free"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/Product_Slide_01_Packshot.webp",
-        "link": "https://getskinbeauty.com/product/p-tiox/"
-      }
-    ]
-  },
-  {
-    "condition": "Suncare",
-    "description": "Suncare involves protecting the skin from harmful UV rays to prevent sunburn, aging, and skin damage.",
-    "recommended_products": [
-      {
-        "title": "Physical Fusion UV Defense SPF 50",
-        "price": "$59.00",
-        "description": "Key benefits:",
-        "ingredients": ["Paraben-Free", "Fragrance-Free", "Non-Comedogenic"],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/11/PFUD50_BeautyAward24.webp",
-        "link": "https://getskinbeauty.com/product/physical-fusion-uv-defense-spf-50/"
-      },
-      {
-        "title": "Physical Matte UV Defense SPF 50",
-        "price": "$55.00",
-        "description": "Physical Matte UV Defense SPF 50 is an advanced broad-spectrum sunscreen that combines 100% physical UV filters with innovative oil-absorbing technology. This dermatologist-tested formula offers comprehensive protection against both UVA and UVB rays while addressing the needs of those with oily or combination skin types.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "4% Transparent Micronized Zinc Oxide (Z-Cote®)",
-          "6% Titanium Dioxide",
-          "Aerated Silica",
-          "Translucent Colour Spheres ACTIVE INGREDIENTS TITANIUM DIOXIDE 9.0012% ZINC OXIDE 3.9975% COSMETIC INGREDIENTS DIMETHICONE C12-15 ALKYL BENZOATE TALC DICAPRYLYL ETHER TRIETHYLHEXANOIN ISOHEXADECANE DIMETHICONE CROSSPOLYMER STYRENE/ACRYLATES COPOLYMER HYDROGENATED JOJOBA OIL DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER ALUMINUM STEARATE PEG-8 LAURATE TRIETHOXYCAPRYLYLSILANE SILICA SILYLATE 2-OLEAMIDO-1,3-OCTADECANEDIOL ALUMINA ALUMINUM HYDROXIDE IRON OXIDES DISODIUM STEAROYL GLUTAMATE POLYHYDROXYSTEARIC ACID TOCOPHEROL"
+        "title": "Skin Professional Gender-Neutral Foot Care",
+        "link": "https://www.auroraorganics.co/product/foot-soak/",
+        "price": "$14",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/foot-soak-1-300x300.jpg",
+        "description": "Bring the spa and relaxation to you with Aurora Organics’ Cooling pain free Foot Care. It will leave you feeling pampered in the comfort of your own home. This soak is a natural way to relieve and comfort painful body in your periods. The Combination of natural Oils and Herbs extract will help relax your muscles and lessen muscles soreness. Delightful essential oils and herbs freshen, while eliminating pain and odor. A 30-minute soak with Aurora Organic’s Soak, will leave your body feeling rested, recharged and ready to tackle tomorrow. Can be use as mani-paddi soak. Instructions: How to Use: Soak your feet: Put  1 or 2 of Aurora Organics’ Foot Soak per gallon of warm water into a basin or small container. Soak feet for 15-20 minutes. Breathe in the relaxing scent of essential oils to soothe the senses. Caution: Hot or warm soaks should not be used by individuals with diabetes, except on advice of physician. For external use only. Do not ingest. Use only as directed. Keep out of the reach of children. If irritation occurs, discontinue use, and  apply coconut oil or olive before use. Set of 6",
+        "categories": [
+          "Aroma Therapy and Natural Healing",
+          "For Her",
+          "For Him",
+          "Gift Box"
         ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/3606000443389_Physical-Matte-UV-DEFENSE_BIL.webp",
-        "link": "https://getskinbeauty.com/product/physical-matte-uv-defense-spf-50/"
-      },
-      {
-        "title": "Sheer Physical UV Defense SPF 50",
-        "price": "$59.00",
-        "description": "Sheer Physical UV Defense SPF 50 is an advanced 100% physical sunscreen designed to provide comprehensive protection for all skin types, including sensitive skin. This weightless, dermatologist-tested formula offers superior defense against environmental stressors while maintaining a comfortable, barely-there feel.",
-        "ingredients": [
-          "Paraben-Free",
-          "Fragrance-Free",
-          "5% Zinc Oxide (Z-Cote®)",
-          "6% Titanium Dioxide",
-          "Artemia Salina"
-        ],
-        "image_url": "https://getskinbeauty.com/wp-content/uploads/2024/12/Sheer-Physical-UV-Defense_50ml_BIL_576x576px.webp",
-        "link": "https://getskinbeauty.com/product/sheer-physical-uv-defense-spf-50/"
+        "tags": [
+          "#BathFizzy",
+          "#FootCare",
+          "#ManiPaddyFizzies",
+          "#Painfreefoot",
+          "#PainFreePeriods",
+          "#relx",
+          "#SkinProfessional",
+          "FootSoak",
+          "Pain #PainFreePeriods",
+          "Trend"
+        ]
       }
     ]
   }
