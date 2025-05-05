@@ -5,7 +5,7 @@ from PIL import Image
 import numpy as np
 
 from utils.predictor import predict_skin_condition
-from schemas.prediction import PredictionResponse
+from schemas.prediction import ConditionInfo, PredictionResponse
 from utils.recommend import get_recommended_products
 
 router = APIRouter()
@@ -68,12 +68,13 @@ async def predict(
 
         # Attach recommendations if available
         condition_data = get_recommended_products(predicted_condition)
-        if condition_data:
-            result["info"] = condition_data
-        else:
-            # No products, but we still return the detected condition
-            result["info"] = None
+        if not condition_data:
+            raise HTTPException(
+                status_code=404,
+                detail=f"No recommendation data found for detected condition: {predicted_condition}"
+            )
 
+        result["info"] = ConditionInfo(**condition_data)
         return result
 
     except HTTPException:
