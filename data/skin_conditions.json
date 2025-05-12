@@ -647,5 +647,38 @@
         ]
       }
     ]
+  },
+  {
+    "condition": "Normal",
+    "description": "Your skin is naturally balanced and healthy—neither too oily nor too dry. To keep it looking its best, here are a few gentle, maintenance-focused products you can try.",
+    "recommended_products": [
+      {
+        "title": "Charcoal Detox Soap",
+        "link": "https://www.auroraorganics.co/product/charcoal-detox-soap/",
+        "price": "$17",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/charcaol-soap-1-300x300.jpg",
+        "description": "Benefits Exfoliates, deep cleanses and removes impurities from the skin Makes skin brighter and clearer through skin-brightening properties Anti-inflammatory, anti-bacterial and anti-aging How to Use Wash and cleanse your face with a Charcoal soap thrice a day. Rinse with water. Follow with a natural moisturizer. Use daily For a bearded face, work the product down to the skin and wash properly Key Ingredients 100% chemical-free, formulated with natural ingredients mainly Charcoal, Coconut Oil, Almond Extracts, Vitamin C and Vitamin E among other ingredients. Sulfate-free, Paraben-free, non-toxic and cruelty-free. Suitable for Normal skin Combination skin Oily skin Targets Uneven skin tone Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply AM PM",
+        "categories": ["For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Lavender Foaming Face Wash",
+        "link": "https://www.auroraorganics.co/product/lavender-foaming-soothing-anti-acne-cleanser/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/07/Lavender-foaming-300x300.jpg",
+        "description": "Botanical-based face cleanser formulated to wash away makeup, sunscreen, and impurities while keeping your skin soft and moisturised, this 100% Pure Lavender Soothing Cleanser is powered with botanical extracts and natural salicylic acid to help reduce redness and tighten pores. Penetrates deep within to unclog pores from oil and surface build-up, without drying out the skin. Gentle enough for daily use, and suitable for normal, oily, and combination skin types. Squeeze a small amount of Foaming cleanser onto wet palms – a dime-size should do it. Place now foamy cleanser onto your face and use your fingertips to gently swirl it around in circles. Avoid your eyes, but feel free to clean your neck. Suitable for Sensitive Skin Acne-prone Skin Texture Teen Age Fine Lines Wrinkles Dullness Environmental Damage Irritation Normal skin Combination skin Oily skin Dry skin Targets Dull skin Uneven skin tone Redness Broken & Acne Skin Enlarged pores Hyperpigmentation When to apply PM AM Pregnancy and Breastfeeding Safe",
+        "categories": ["Face & Hands", "For Her", "For Him", "Gift Box"],
+        "tags": []
+      },
+      {
+        "title": "Radiant Plump Serum",
+        "link": "https://www.auroraorganics.co/product/radiant-plump-serum/",
+        "price": "$30",
+        "image": "https://www.auroraorganics.co/wp-content/uploads/2022/06/radiant-pump-soap-1-300x300.jpg",
+        "description": "The Botanical extracts and hyaluronic acid based serum  is a great choice for those looking to improve the appearance of their skin. Not only does it help keep our skin hydrated, but it also helps reduce the appearance of fine lines and wrinkles. In addition, hyaluronic acid can also help diminish the appearance of dark circles under your eyes. It gives the skin a plump, hydrated appearance. It helps to keep skin hydrated and looking young. A serum with hyaluronic acid can improve the appearance of wrinkles and fine lines. It can also help to improve skin tone and texture. Helps to retain moisture in the skin. It may also help to protect the skin from sun damage. HA helps to reduce acne breakouts. It can also help to reduce the appearance of scars and stretch marks. Serums with hyaluronic acid are effective for all skin types. They are especially good for dry or mature skin. Suitable for Normal skin Combination skin Oily skin Dry skin All Skin Types Targets Dull skin Uneven skin tone Sebum control Redness Hyperpigmentation How to use Use in the morning and night, and apply the face serum on clean dry skin. Spread the serum with your hands across the forehead, cheeks, chin and down the neck in long gliding strokes, working from the center of the face toward the outside. Finish by stroking downward on the T-zone and across the upper and lower lip, then under the jawline. Follow with your Radiant Plump moisturizer and Rose or Sandal Mist. Key Ingredients 100% chemical-free, cruelty-free, formulated with natural ingredients, mainly Azadirachta indica, faex extract/yeast extract, Peg-60 Hydrogenated Castor Oil, Polymnia Sonchifolia Root Juice, Maltodextrin, Limonene, Mannose, Hyaluronic Acid , 3 different Glycols, Rosa Gallica Flower Extract, Orange Flower Extract and Citronellol among other ingredients. Paraben-free, Sulfate-free, Non-toxic When to apply Am Pm",
+        "categories": ["Face & Hands", "Gift Box"],
+        "tags": []
+      }
+    ]
   }
 ]
