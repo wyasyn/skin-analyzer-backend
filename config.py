@@ -8,5 +8,5 @@ CLASS_NAMES = ['acne',
  'scars',
  'wrinkles']
 
-MODEL_PATH = "models/model-v3.keras"
+MODEL_PATH = "models/model-v1.keras"
 
