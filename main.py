@@ -1,3 +1,4 @@
+import os
 import numpy as np
 import logging
 from fastapi import FastAPI
@@ -7,6 +8,8 @@ from contextlib import asynccontextmanager
 from api.v1 import router as v1_router
 from config import MODEL_PATH
 from models.model_loader import load_skin_condition_model
+
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 
 logger = logging.getLogger("uvicorn.error")
 
