@@ -65,3 +65,9 @@ docker-compose up --build
 ```bash
 docker-compose down
 ```
+
+## Refresh Bash
+
+```bash
+source ~/.bashrc
+```
