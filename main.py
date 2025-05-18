@@ -4,7 +4,6 @@ import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-
 from api.v1 import router as v1_router
 from config import MODEL_PATH
 from models.model_loader import load_skin_condition_model
