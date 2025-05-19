@@ -1,29 +1,28 @@
-# Use official Python slim image
+# Use a slim base image
 FROM python:3.12-slim
 
-# Set environment variables to improve Python behavior
+# Avoid .pyc files
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
-    PORT=8000 
+    PORT=7860  
 
-# Set working directory
 WORKDIR /app
 
-# Install system dependencies (optional: can add git, build-essential etc. if needed)
-RUN apt-get update && apt-get install -y --no-install-recommends \
+# Install system dependencies (optional)
+RUN apt-get update && apt-get install -y \
     build-essential \
- && rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements and install Python dependencies from a reliable mirror
+# Copy and install dependencies
 COPY requirements.txt .
 RUN pip install --upgrade pip \
- && pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+ && pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application
+# Copy code
 COPY . .
 
-# Expose the port (informational)
-EXPOSE $PORT
+# Expose Hugging Face default port
+EXPOSE 7860
 
-# Command to run FastAPI app
-CMD ["sh", "-c", "fastapi run main.py --host 0.0.0.0 --port ${PORT}"]
+# Run the FastAPI app
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]
