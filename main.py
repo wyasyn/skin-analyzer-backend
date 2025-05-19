@@ -1,33 +1,44 @@
-import os
-import numpy as np
-import logging
+import os, logging, numpy as np, asyncio
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
+from huggingface_hub import hf_hub_download
+
 from api.v1 import router as v1_router
-from config import MODEL_PATH
 from models.model_loader import load_skin_condition_model
 
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
-
 logger = logging.getLogger("uvicorn.error")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    logger.info("Starting up: loading model...")
-    model = load_skin_condition_model(MODEL_PATH)
-    if model is None:
-        raise RuntimeError("Failed to load skin condition model")
-    # Warm up (compile) the model graph
-    dummy = np.zeros((1, 224, 224, 3), dtype=np.uint8)
-    model.predict(dummy)
-    app.state.model = model
-    yield
-    logger.info("Shutting down: clearing model from state")
-    if hasattr(model, "close"):
-        model.close()
-    else:
-        del app.state.model
+    try:
+        logger.info("Downloading model from Hugging Face Hub…")
+        model_path = hf_hub_download(
+            repo_id="yasyn14/skin-analyzer",
+            filename="model-v1.keras",
+            cache_dir="/app/.cache"
+        )
+
+        logger.info("Loading model…")
+        model = await asyncio.to_thread(load_skin_condition_model, model_path)
+
+        # warm-up
+        dummy = np.zeros((1, 224, 224, 3), dtype=np.uint8)
+        await asyncio.to_thread(model.predict, dummy)
+
+        app.state.model = model
+        logger.info("Model ready ✅")
+        yield
+
+    except Exception as e:
+        logger.exception("Failed during startup:")
+        raise RuntimeError("Failed to load skin-condition model") from e
+
+    finally:
+        logger.info("Shutting down: releasing resources")
+        if hasattr(app.state, "model"):
+            del app.state.model
 
 app = FastAPI(
     lifespan=lifespan,
@@ -38,7 +49,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # lock this down in prod
+    allow_origins=["*"],  # tighten in prod
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
