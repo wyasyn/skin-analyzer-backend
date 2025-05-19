@@ -1,28 +1,30 @@
-# Use a slim base image
+# Base image
 FROM python:3.12-slim
 
-# Avoid .pyc files
+# Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
-    PORT=7860  
+    HF_HOME=/app/.cache/huggingface \
+    TRANSFORMERS_CACHE=/app/.cache/huggingface/transformers \
+    HF_HUB_CACHE=/app/.cache/huggingface/hub \
+    PORT=8000
 
+# Set working directory
 WORKDIR /app
 
-# Install system dependencies (optional)
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
-
-# Copy and install dependencies
+# Install dependencies
 COPY requirements.txt .
 RUN pip install --upgrade pip \
- && pip install --no-cache-dir -r requirements.txt
+ && pip install --no-cache-dir -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
-# Copy code
+# Download model during build
+RUN python -c "from huggingface_hub import hf_hub_download; hf_hub_download(repo_id='yasyn14/skin-analyzer', filename='model-v1.keras', cache_dir='/app/.cache')"
+
+# Copy rest of your code
 COPY . .
 
-# Expose Hugging Face default port
-EXPOSE 7860
+# Expose port
+EXPOSE ${PORT}
 
-# Run the FastAPI app
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]
+# Start FastAPI app using the PORT env
+CMD ["sh", "-c", "fastapi run main.py --host 0.0.0.0 --port $PORT"]

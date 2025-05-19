@@ -1,27 +1,9 @@
 services:
-  # FastAPI Backend Service
-  backend:
-    image: yasyn/skin-analyzer
-    container_name: fastapi-backend
+  skin-analyzer-api:
+    build: .
     ports:
       - "8000:8000"
-    networks:
-      - skin-analyzer-net
-
-  # Frontend Service (Next.js)
-  frontend:
-    image: yasyn/web-skin-analyzer
-    container_name: nextjs-frontend
-    ports:
-      - "3000:3000"
     environment:
-      - NEXTAUTH_URL=http://localhost:3000
-      - AUTH_TRUST_HOST=true
-    depends_on:
-      - backend
-    networks:
-      - skin-analyzer-net
-
-networks:
-  skin-analyzer-net:
-    driver: bridge
+      PORT: 8000
+    volumes:
+      - .:/app
